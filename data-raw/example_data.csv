@@ -1,0 +1,1221 @@
+ID,Gender,aut_relation,aut_family,aut_degree,aut_degree_cont,Age,open_percent,close_percent,averted_percent,directed_percent,eyes_percent,mouth_percent,Classification,ADOS_Score
+2001,M,high_risk,Brother,first,0.5,9m,0.669471154,0.330528846,0.379895561,0.620104439,0,1,autism,16
+2001,M,high_risk,Brother,first,0.5,9m,,,,,,,autism,16
+2001,M,high_risk,Brother,first,0.5,3m,,,,,,,autism,16
+2001,M,high_risk,Brother,first,0.5,12m,,,0.545025295,0.454974705,,,autism,16
+2001,M,high_risk,Brother,first,0.5,6m,,,,,,,autism,16
+2002,F,high_risk,Brother,first,0.5,9m,,,,,,,non_asd,2
+2002,F,high_risk,Brother,first,0.5,3m,,,,,,,non_asd,2
+2002,F,high_risk,Brother,first,0.5,6m,,,,,,,non_asd,2
+2002,F,high_risk,Brother,first,0.5,12m,,,,,,,non_asd,2
+2003,F,high_risk,Sister,first,0.5,9m,,,,,,,non_asd,0
+2003,F,high_risk,Sister,first,0.5,6m,,,,,,,non_asd,0
+2003,F,high_risk,Sister,first,0.5,3m,,,,,,,non_asd,0
+2003,F,high_risk,Sister,first,0.5,12m,,,,,,,non_asd,0
+2004,M,high_risk,"2nd Cousin, Brother",first,0.5,12m,,,,,,,,
+2004,M,high_risk,"2nd Cousin, Brother",first,0.5,9m,,,0.567961165,0.432038835,0.948051948,0.051948052,,
+2004,M,high_risk,"2nd Cousin, Brother",first,0.5,3m,,,0,1,,,,
+2004,M,high_risk,"2nd Cousin, Brother",first,0.5,6m,,,0.868580009,0.131428571,,,,
+2005,M,high_risk,1st Cousin,second,0.125,12m,,,0.626204997,0.373795003,0.18861146,0.81138854,non_asd,3
+2005,M,high_risk,1st Cousin,second,0.125,6m,,,0.490234375,0.509765625,,,non_asd,3
+2005,M,high_risk,1st Cousin,second,0.125,3m,,,1,0,1,0,non_asd,3
+2005,M,high_risk,1st Cousin,second,0.125,9m,,,0.611321507,0.388678493,1,0,non_asd,3
+2006,M,high_risk,Brother,first,0.5,12m,,,0.45020421,0.54979579,0.026315789,0.973684211,non_asd,1
+2006,M,high_risk,Brother,first,0.5,6m,,,0.465750081,0.534249919,0.92212766,0.07787234,non_asd,1
+2006,M,high_risk,Brother,first,0.5,9m,,,,,0.806660846,0.193339154,non_asd,1
+2006,M,high_risk,Brother,first,0.5,3m,,,0.592493298,0.407506702,,,non_asd,1
+2007,M,high_risk,Brother,first,0.5,3m,,,,,,,,
+2007,M,high_risk,Brother,first,0.5,9m,,,0.56696799,0.43303201,0.875234522,0.124765478,,
+2007,M,high_risk,Brother,first,0.5,6m,,,0.449297586,0.550702414,0.93557423,0.06442577,,
+2007,M,high_risk,Brother,first,0.5,12m,,,,,,,,
+2008,F,high_risk,Aunt,second,0.25,12m,,,0.660672933,0.339327067,0.335387962,0.664612038,non_asd,2
+2008,F,high_risk,Aunt,second,0.25,3m,,,0.205661747,0.794338253,1,0,non_asd,2
+2008,F,high_risk,Aunt,second,0.25,6m,,,0.650283252,0.349716748,0.905717151,0.094282849,non_asd,2
+2008,F,high_risk,Aunt,second,0.25,9m,,,0.495364238,0.504635762,,,non_asd,2
+2009,M,high_risk,Brother,first,0.5,9m,,,,,,,,
+2009,M,high_risk,Brother,first,0.5,3m,,,,,,,,
+2009,M,high_risk,Brother,first,0.5,6m,,,0.493927577,0.506072423,0.810716366,0.189283634,,
+2009,M,high_risk,Brother,first,0.5,12m,,,,,,,,
+2010,M,high_risk,Brother,first,0.5,3m,,,,,,,,
+2010,M,high_risk,Brother,first,0.5,6m,,,0.530421217,0.469578783,,,,
+2010,M,high_risk,Brother,first,0.5,9m,,,0.724745389,0.275254611,0.680532924,0.319467076,,
+2010,M,high_risk,Brother,first,0.5,12m,,,,,,,,
+2011,F,high_risk,Sister,first,0.5,6m,,,,,,,non_asd,5
+2011,F,high_risk,Sister,first,0.5,12m,,,0.474901961,0.525098039,0.412448444,0.587551556,non_asd,5
+2011,F,high_risk,Sister,first,0.5,9m,,,0.618530184,0.381469816,0.154479918,0.845520082,non_asd,5
+2011,F,high_risk,Sister,first,0.5,3m,,,,,,,non_asd,5
+2012,F,high_risk,1st Cousin,second,0.125,9m,,,,,,,non_asd,7
+2012,F,high_risk,1st Cousin,second,0.125,3m,,,0.831750339,0.168249661,,,non_asd,7
+2012,F,high_risk,1st Cousin,second,0.125,6m,,,1,1,0.986883943,0.013116057,non_asd,7
+2012,F,high_risk,1st Cousin,second,0.125,12m,0.48115942,0.51884058,1,0,,,non_asd,7
+2013,F,high_risk,Brother,first,0.5,12m,0.652152589,0.347847411,0.498165336,0.501834664,0.919568459,0.080431541,non_asd,2
+2013,F,high_risk,Brother,first,0.5,6m,0.522251309,0.477748691,1,1,0.929826167,0.070173833,non_asd,2
+2013,F,high_risk,Brother,first,0.5,3m,,,1,0,,,non_asd,2
+2013,F,high_risk,Brother,first,0.5,9m,0.515318758,0.484681242,0.446050096,0.553949904,0.52375739,0.47624261,non_asd,2
+2014,F,high_risk,Brother,first,0.5,12m,,,0.440840173,0.559159827,0.035893754,0.964106246,,
+2014,F,high_risk,Brother,first,0.5,6m,,,,,,,,
+2014,F,high_risk,Brother,first,0.5,3m,,,,,,,,
+2014,F,high_risk,Brother,first,0.5,9m,,,,,,,,
+2015,F,high_risk,2nd Cousin,second,0.0625,6m,,,0.302648564,0.697351436,0.970165027,0.029834973,non_asd,3
+2015,F,high_risk,2nd Cousin,second,0.0625,9m,0.671428189,0.328571811,0.491352243,0.508647757,1,0,non_asd,3
+2015,F,high_risk,2nd Cousin,second,0.0625,12m,0.562742168,0.437257832,0.540177618,0.459822382,0.920328431,0.007940088,non_asd,3
+2015,F,high_risk,2nd Cousin,second,0.0625,3m,,,,,,,non_asd,3
+2016,M,high_risk,Brother,first,0.5,3m,,,,,,,non_asd,1
+2016,M,high_risk,Brother,first,0.5,9m,,,,,,,non_asd,1
+2016,M,high_risk,Brother,first,0.5,6m,1,0,0.805882353,0.194117647,,,non_asd,1
+2016,M,high_risk,Brother,first,0.5,12m,,,0.524137931,0.475862069,,,non_asd,1
+2017,M,high_risk,2nd Cousin,second,0.0625,3m,,,,,,,,
+2017,M,high_risk,2nd Cousin,second,0.0625,9m,,,,,,,,
+2017,M,high_risk,2nd Cousin,second,0.0625,6m,,,0.452114308,0.547885692,0.971772765,0.028227235,,
+2017,M,high_risk,2nd Cousin,second,0.0625,12m,,,,,,,,
+2018,M,high_risk,Brother,first,0.5,12m,,,,,,,,
+2018,M,high_risk,Brother,first,0.5,9m,,,0.420615213,0.579384787,0.430682409,0.569317591,,
+2018,M,high_risk,Brother,first,0.5,6m,,,,,0.895845742,0.104154258,,
+2018,M,high_risk,Brother,first,0.5,3m,,,,,,,,
+2019,M,high_risk,2nd Cousin,second,0.0625,3m,,,,,,,autism,20
+2019,M,high_risk,2nd Cousin,second,0.0625,9m,,,,,,,autism,20
+2019,M,high_risk,2nd Cousin,second,0.0625,6m,,,,,0.867536754,0.132463246,autism,20
+2019,M,high_risk,2nd Cousin,second,0.0625,12m,,,,,,,autism,20
+2020,M,high_risk,1st Cousin,second,0.125,12m,0.467886869,0.532113131,0.419469316,0.580530684,0.87283237,0.12716763,non_asd,0
+2020,M,high_risk,1st Cousin,second,0.125,6m,0.585217698,0.414782302,0.514728634,0.485271366,,,non_asd,0
+2020,M,high_risk,1st Cousin,second,0.125,9m,,,,,,,non_asd,0
+2020,M,high_risk,1st Cousin,second,0.125,3m,1,0,0,1,,,non_asd,0
+2021,F,high_risk,Brother,first,0.5,9m,0.672771426,0.327228574,0.491308179,0.508691821,0.981346013,0.018653987,autism_spectrum,9
+2021,F,high_risk,Brother,first,0.5,6m,0.541024543,0.458975457,0.528137015,0.471862985,,,autism_spectrum,9
+2021,F,high_risk,Brother,first,0.5,12m,0.542190137,0.457809863,0.432930488,0.567069512,0.546199363,0.440145653,autism_spectrum,9
+2021,F,high_risk,Brother,first,0.5,3m,0.656183168,0.343816832,,,0,1,autism_spectrum,9
+2022,M,high_risk,Brother,first,0.5,9m,0.596438356,0.403561644,0.393842887,0.606157113,0.709245932,0.290754068,non_asd,3
+2022,M,high_risk,Brother,first,0.5,3m,,,,,,,non_asd,3
+2022,M,high_risk,Brother,first,0.5,12m,0.473684211,0.526315789,0.472406181,0.527593819,,,non_asd,3
+2022,M,high_risk,Brother,first,0.5,6m,,,,,,,non_asd,3
+2023,M,high_risk,Brother,first,0.5,12m,0.607954545,0.392045455,0.858131488,0.141868512,,,non_asd,3
+2023,M,high_risk,Brother,first,0.5,3m,0.719528178,0.280471822,0.425381904,0.574618096,,,non_asd,3
+2023,M,high_risk,Brother,first,0.5,6m,,,,,,,non_asd,3
+2023,M,high_risk,Brother,first,0.5,9m,,,,,,,non_asd,3
+2024,F,high_risk,Brother,first,0.5,9m,0.537572254,0.462427746,0.479500891,0.520499109,,,autism,29
+2024,F,high_risk,Brother,first,0.5,12m,0.553097345,0.446902655,0.359410431,0.640589569,,,autism,29
+2024,F,high_risk,Brother,first,0.5,3m,0.696319018,0.303680982,0.756626506,0.243373494,,,autism,29
+2024,F,high_risk,Brother,first,0.5,6m,0.520581114,0.479418886,0.480769231,0.519230769,,,autism,29
+2025,F,high_risk,1st Cousin,second,0.125,12m,0.461176471,0.538823529,1,0,,,non_asd,2
+2025,F,high_risk,1st Cousin,second,0.125,3m,1,0,,,,,non_asd,2
+2025,F,high_risk,1st Cousin,second,0.125,9m,0.449507615,0.550492385,,,0.299401198,0.700598802,non_asd,2
+2025,F,high_risk,1st Cousin,second,0.125,6m,0.48582526,0.51417474,0.387023567,0.612976433,0.558548689,0.441451311,non_asd,2
+2026,M,high_risk,1st Cousin,second,0.125,6m,0.68573755,0.31426245,0.209957571,0.790042429,0.919357413,0.080642587,autism,16
+2026,M,high_risk,1st Cousin,second,0.125,9m,0.575630252,0.424369748,0.542854565,0.457145435,1,0,autism,16
+2026,M,high_risk,1st Cousin,second,0.125,12m,,,,,,,autism,16
+2026,M,high_risk,1st Cousin,second,0.125,3m,0.63141994,0.36858006,0.438976378,0.561023622,,,autism,16
+2027,F,high_risk,"Brother, Uncle",first,0.5,6m,0.5067,0.4933,0.358590078,0.641409922,0.914487406,0.085512594,autism_spectrum,11
+2027,F,high_risk,"Brother, Uncle",first,0.5,9m,0.659100191,0.340899809,0.325275237,0.674724763,0.186413099,0.813586901,autism_spectrum,11
+2027,F,high_risk,"Brother, Uncle",first,0.5,3m,0.672217913,0.327782087,0.639331235,0.360668765,0.93893498,0.06106502,autism_spectrum,11
+2027,F,high_risk,"Brother, Uncle",first,0.5,12m,,,,,,,autism_spectrum,11
+2028,F,high_risk,Brother,first,0.5,9m,0.596173441,0.403826559,0.459793874,0.540206126,0.011768489,0.988231511,non_asd,0
+2028,F,high_risk,Brother,first,0.5,3m,,,,,,,non_asd,0
+2028,F,high_risk,Brother,first,0.5,12m,0.458574181,0.541425819,0.39010989,0.60989011,,,non_asd,0
+2028,F,high_risk,Brother,first,0.5,6m,0.629220865,0.370779135,0.740594595,0.259405405,0.314516129,0.685483871,non_asd,0
+2029,M,high_risk,1st Cousin,second,0.125,6m,0.371012611,0.628987389,0.612207602,0.387792398,0.831125828,0.168874172,non_asd,2
+2029,M,high_risk,1st Cousin,second,0.125,9m,0.787356322,0.212643678,0.57591623,0.42408377,,,non_asd,2
+2029,M,high_risk,1st Cousin,second,0.125,3m,1,0,,,,,non_asd,2
+2029,M,high_risk,1st Cousin,second,0.125,12m,0.9915,0.0085,0.598594,0.401406,0.654311927,0.345688073,non_asd,2
+2030,F,high_risk,1st Cousin,second,0.125,3m,0.499734869,0.500265131,0.395044915,0.604955085,1,0,,
+2030,F,high_risk,1st Cousin,second,0.125,6m,0.475371384,0.524628616,0.461376034,0.538623966,0.766937842,0.233062158,,
+2030,F,high_risk,1st Cousin,second,0.125,12m,0.457562221,0.542437779,0.283558519,0.716441481,,,,
+2030,F,high_risk,1st Cousin,second,0.125,9m,0.55228779,0.44771221,0.464589235,0.535410765,0.851970181,0.148029819,,
+2031,F,high_risk,Brother,first,0.5,9m,,,0,1.051975052,,,non_asd,4
+2031,F,high_risk,Brother,first,0.5,6m,,,0,1,,,non_asd,4
+2031,F,high_risk,Brother,first,0.5,12m,,,,,,,non_asd,4
+2031,F,high_risk,Brother,first,0.5,3m,1,0,,,,,non_asd,4
+2032,M,high_risk,Sister,first,0.5,12m,,,,,,,non_asd,3
+2032,M,high_risk,Sister,first,0.5,9m,,,,,,,non_asd,3
+2032,M,high_risk,Sister,first,0.5,3m,,,,,0.983090971,0.016976666,non_asd,3
+2032,M,high_risk,Sister,first,0.5,6m,,,,,,,non_asd,3
+2033,F,high_risk,1st Cousin,second,0.125,9m,,,0.438731791,0.561268209,,,autism_spectrum,11
+2033,F,high_risk,1st Cousin,second,0.125,12m,,,,,,,autism_spectrum,11
+2033,F,high_risk,1st Cousin,second,0.125,6m,,,,,,,autism_spectrum,11
+2033,F,high_risk,1st Cousin,second,0.125,3m,0.632036957,0.367963043,,,0.975857074,0.024142926,autism_spectrum,11
+2034,M,high_risk,Brother,first,0.5,9m,,,0.560185185,0.439814815,,,non_asd,6
+2034,M,high_risk,Brother,first,0.5,3m,0.256841411,0.743158589,,,1,0,non_asd,6
+2034,M,high_risk,Brother,first,0.5,12m,,,,,,,non_asd,6
+2034,M,high_risk,Brother,first,0.5,6m,,,,,,,non_asd,6
+2035,M,high_risk,Brother,first,0.5,6m,,,0.204444444,0.75951952,,,,
+2035,M,high_risk,Brother,first,0.5,12m,,,,,,,,
+2035,M,high_risk,Brother,first,0.5,9m,,,0.242375602,0.757624398,,,,
+2035,M,high_risk,Brother,first,0.5,3m,0.346282189,0.653717811,,,0.30739877,0.69260123,,
+2036,F,high_risk,Uncle,second,0.25,3m,0.585102041,0.414897959,,,0.637425561,0.362574439,,
+2036,F,high_risk,Uncle,second,0.25,12m,,,,,,,,
+2036,F,high_risk,Uncle,second,0.25,6m,,,0.686153846,0.313846154,,,,
+2036,F,high_risk,Uncle,second,0.25,9m,,,0.300142248,0.699857752,,,,
+2037,M,high_risk,Brother,first,0.5,3m,,,,,,,non_asd,1
+2037,M,high_risk,Brother,first,0.5,9m,,,,,,,non_asd,1
+2037,M,high_risk,Brother,first,0.5,6m,,,,,,,non_asd,1
+2037,M,high_risk,Brother,first,0.5,12m,,,,,,,non_asd,1
+2038,M,high_risk,Sister,first,0.5,12m,,,,,,,,
+2038,M,high_risk,Sister,first,0.5,9m,,,0.499310575,0.500689425,0.5214789,0.4785211,,
+2038,M,high_risk,Sister,first,0.5,3m,,,,,,,,
+2038,M,high_risk,Sister,first,0.5,6m,,,,,,,,
+2039,F,high_risk,1st Cousin,second,0.125,12m,,,0.523255814,0.476744186,,,non_asd,0
+2039,F,high_risk,1st Cousin,second,0.125,3m,0,1,,,,,non_asd,0
+2039,F,high_risk,1st Cousin,second,0.125,9m,,,0.370639535,0.632110308,0.989753022,0.010246978,non_asd,0
+2039,F,high_risk,1st Cousin,second,0.125,6m,,,0.466852109,0.533147891,,,non_asd,0
+2040,F,high_risk,1st Cousin,second,0.125,9m,0.298507463,0.701492537,0.84548105,0.15451895,,,non_asd,2
+2040,F,high_risk,1st Cousin,second,0.125,3m,0.667605634,0.332394366,0,1,,,non_asd,2
+2040,F,high_risk,1st Cousin,second,0.125,6m,0.552524319,0.447475681,0.397603875,0.602396125,0.889821429,0.110178571,non_asd,2
+2040,F,high_risk,1st Cousin,second,0.125,12m,0.525700935,0.474299065,0.522099448,0.477900552,,,non_asd,2
+2041,F,high_risk,Uncle,second,0.25,3m,,,,,,,non_asd,3
+2041,F,high_risk,Uncle,second,0.25,9m,,,0.356557377,0.643442623,,,non_asd,3
+2041,F,high_risk,Uncle,second,0.25,12m,0.684931507,0.315068493,0.112759644,0.887240356,,,non_asd,3
+2041,F,high_risk,Uncle,second,0.25,6m,,,,,,,non_asd,3
+2042,F,high_risk,1st Cousin,second,0.125,9m,0.390070922,0.609929078,0.425474255,0.574525745,,,non_asd,0
+2042,F,high_risk,1st Cousin,second,0.125,6m,0.409240924,0.590759076,0,1,,,non_asd,0
+2042,F,high_risk,1st Cousin,second,0.125,12m,0.563356164,0.436643836,0.562363239,0.437636761,,,non_asd,0
+2042,F,high_risk,1st Cousin,second,0.125,3m,0.342184528,0.657815472,0.475143328,0.524856672,0.840722892,0.159277108,non_asd,0
+2043,M,high_risk,1st Cousin,second,0.125,6m,0.39310666,0.60689334,0.439574977,0.560425023,0.109317411,0.890682589,,
+2043,M,high_risk,1st Cousin,second,0.125,12m,0.800970874,0.199029126,0.234375,0.765625,,,,
+2043,M,high_risk,1st Cousin,second,0.125,3m,0.974466999,0.025533001,,,0.77443281,0.269197208,,
+2043,M,high_risk,1st Cousin,second,0.125,9m,,,,,,,,
+2044,M,high_risk,1st Cousin,second,0.125,6m,,,,,,,non_asd,6
+2044,M,high_risk,1st Cousin,second,0.125,12m,0.559440559,0.440559441,1,0,,,non_asd,6
+2044,M,high_risk,1st Cousin,second,0.125,9m,,,,,,,non_asd,6
+2044,M,high_risk,1st Cousin,second,0.125,3m,,,,,,,non_asd,6
+2045,F,high_risk,Brother,first,0.5,6m,,,,,,,non_asd,1
+2045,F,high_risk,Brother,first,0.5,12m,0.485082873,0.514917127,0.384962406,0.615037594,,,non_asd,1
+2045,F,high_risk,Brother,first,0.5,3m,,,,,,,non_asd,1
+2045,F,high_risk,Brother,first,0.5,9m,0.333333333,0.666666667,,,,,non_asd,1
+2046,M,high_risk,"Brother, Uncle",first,0.5,3m,,,,,,,non_asd,1
+2046,M,high_risk,"Brother, Uncle",first,0.5,6m,,,,,,,non_asd,1
+2046,M,high_risk,"Brother, Uncle",first,0.5,12m,0.178240741,0.821759259,0.498924731,0.501075269,,,non_asd,1
+2046,M,high_risk,"Brother, Uncle",first,0.5,9m,0.386519945,0.613480055,0.757973734,0.242026266,,,non_asd,1
+2047,M,high_risk,1st Cousin,second,0.125,3m,1,0,0,1,,,non_asd,0
+2047,M,high_risk,1st Cousin,second,0.125,9m,0.369527145,0.630472855,0.655913978,0.344086022,,,non_asd,0
+2047,M,high_risk,1st Cousin,second,0.125,6m,0.699275362,0.300724638,0.440944882,0.559055118,,,non_asd,0
+2047,M,high_risk,1st Cousin,second,0.125,12m,0.609022556,0.390977444,0.519736842,0.480263158,,,non_asd,0
+2048,M,high_risk,Brother,first,0.5,12m,0.445086705,0.554913295,0.596296296,0.403703704,,,autism_spectrum,11
+2048,M,high_risk,Brother,first,0.5,6m,0.54796748,0.45203252,0.593023256,0.406976744,,,autism_spectrum,11
+2048,M,high_risk,Brother,first,0.5,3m,,,,,,,autism_spectrum,11
+2048,M,high_risk,Brother,first,0.5,9m,0.38028169,0.61971831,0.379928315,0.620071685,,,autism_spectrum,11
+2049,F,high_risk,"1st Cousin, 2nd Cousin",second,0.125,6m,0.752351097,0.247648903,0.405555556,0.594444444,,,non_asd,2
+2049,F,high_risk,"1st Cousin, 2nd Cousin",second,0.125,9m,0.807017544,0.192982456,0.526548673,0.473451327,,,non_asd,2
+2049,F,high_risk,"1st Cousin, 2nd Cousin",second,0.125,3m,,,,,,,non_asd,2
+2049,F,high_risk,"1st Cousin, 2nd Cousin",second,0.125,12m,0.582857143,0.417142857,0.638932496,0.361067504,0,1,non_asd,2
+2050,F,high_risk,Brother,first,0.5,12m,,,,,,,non_asd,5
+2050,F,high_risk,Brother,first,0.5,6m,,,0.428571429,0.571428571,,,non_asd,5
+2050,F,high_risk,Brother,first,0.5,3m,,,,,,,non_asd,5
+2050,F,high_risk,Brother,first,0.5,9m,0.704387991,0.295612009,0.506993007,0.493006993,,,non_asd,5
+2051,M,high_risk,"Sister, Uncle",first,0.5,6m,,,,,,,non_asd,0
+2051,M,high_risk,"Sister, Uncle",first,0.5,12m,0.507949126,0.492050874,0.607944732,0.392055268,0.220272904,0.779727096,non_asd,0
+2051,M,high_risk,"Sister, Uncle",first,0.5,3m,0.442622951,0.557377049,1,0.45994832,,,non_asd,0
+2051,M,high_risk,"Sister, Uncle",first,0.5,9m,0.257692308,0.742307692,0.428571429,0.571428571,,,non_asd,0
+2052,M,high_risk,Brother,first,0.5,6m,,,,,,,,
+2052,M,high_risk,Brother,first,0.5,9m,,,,,,,,
+2052,M,high_risk,Brother,first,0.5,3m,,,,,,,,
+2052,M,high_risk,Brother,first,0.5,12m,,,,,,,,
+2053,M,high_risk,"1st Cousin, 2nd Cousin",second,0.125,6m,,,,,,,non_asd,3
+2053,M,high_risk,"1st Cousin, 2nd Cousin",second,0.125,12m,0.631140351,0.368859649,0.42185008,0.57814992,0.268700787,0.731299213,non_asd,3
+2053,M,high_risk,"1st Cousin, 2nd Cousin",second,0.125,3m,,,,,,,non_asd,3
+2053,M,high_risk,"1st Cousin, 2nd Cousin",second,0.125,9m,,,,,0.241092637,0.758907363,non_asd,3
+2054,M,high_risk,Brother,first,0.5,12m,1,0,0.733333333,0.266666667,,,non_asd,0
+2054,M,high_risk,Brother,first,0.5,9m,0.623840114,0.376159886,0.089958159,0.910041841,0.71875,0.28125,non_asd,0
+2054,M,high_risk,Brother,first,0.5,3m,,,,,,,non_asd,0
+2054,M,high_risk,Brother,first,0.5,6m,0.596972564,0.403027436,0.387665198,0.612334802,,,non_asd,0
+2055,F,high_risk,1st Cousin,second,0.125,3m,0.24251497,0.75748503,0.615584416,0.384415584,,,autism_spectrum,7
+2055,F,high_risk,1st Cousin,second,0.125,6m,,,,,,,autism_spectrum,7
+2055,F,high_risk,1st Cousin,second,0.125,9m,0.629981025,0.370018975,0.487333333,0.512666667,0.106493506,0.893506494,autism_spectrum,7
+2055,F,high_risk,1st Cousin,second,0.125,12m,,,,,,,autism_spectrum,7
+2056,F,high_risk,1st Cousin,second,0.125,12m,0.436742934,0.563257066,0.441658137,0.558341863,0.443105756,0.556894244,non_asd,1
+2056,F,high_risk,1st Cousin,second,0.125,3m,0.680440771,0.319559229,0.265957447,0.734042553,0.680440771,0.319559229,non_asd,1
+2056,F,high_risk,1st Cousin,second,0.125,9m,0.430142566,0.569857434,0.503584229,0.496415771,0.939393939,0.060606061,non_asd,1
+2056,F,high_risk,1st Cousin,second,0.125,6m,0,1,,,,,non_asd,1
+2057,M,high_risk,Uncle,second,0.25,3m,0.439820022,0.560179978,0.2734375,0.7265625,,,non_asd,3
+2057,M,high_risk,Uncle,second,0.25,12m,0.588159588,0.411840412,0.617647059,0.382352941,0.088073394,0.911926606,non_asd,3
+2057,M,high_risk,Uncle,second,0.25,6m,0.566646742,0.433353258,0.468579911,0.531420089,0.60968661,0.39031339,non_asd,3
+2058,M,high_risk,Uncle,second,0.25,3m,,,,,,,non_asd,1
+2058,M,high_risk,Uncle,second,0.25,6m,0.549265341,0.450734659,0.478320716,0.521679284,0.256218905,0.743781095,non_asd,1
+2058,M,high_risk,Uncle,second,0.25,9m,0.467218935,0.532781065,0.453714286,0.546285714,0.428943937,0.571056063,non_asd,1
+2058,M,high_risk,Uncle,second,0.25,12m,0.673384295,0.326615705,0.714932127,0.285067873,0.115248227,0.884751773,non_asd,1
+2059,M,high_risk,NA,NA,0,6m,,,,,,,,
+2059,M,high_risk,NA,NA,0,3m,,,1,0,,,,
+2059,M,high_risk,NA,NA,0,12m,,,,,,,,
+2059,M,high_risk,NA,NA,0,9m,,,,,,,,
+2060,M,high_risk,Brother,first,0.5,12m,,,,,,,,
+2060,M,high_risk,Brother,first,0.5,9m,,,,,,,,
+2060,M,high_risk,Brother,first,0.5,6m,0.88245676,0.11754324,0.570659971,0.429340029,0.409153953,0.590846047,,
+2060,M,high_risk,Brother,first,0.5,3m,0.5,0.5,,,,,,
+2061,M,high_risk,1st Cousin,second,0.125,9m,0.661407558,0.338282407,0.505140507,0.494859493,0.602436823,0.397563177,non_asd,4
+2061,M,high_risk,1st Cousin,second,0.125,6m,,,1,0,,,non_asd,4
+2061,M,high_risk,1st Cousin,second,0.125,12m,0.605140187,0.394859813,0.392760181,0.607239819,0.381818182,0.618181818,non_asd,4
+2061,M,high_risk,1st Cousin,second,0.125,3m,,,,,,,non_asd,4
+2062,M,high_risk,1st Cousin,second,0.125,9m,,,,,,,,
+2062,M,high_risk,1st Cousin,second,0.125,12m,,,,,,,,
+2062,M,high_risk,1st Cousin,second,0.125,3m,0.807976366,0.192023634,0.428571429,0.571428571,,,,
+2062,M,high_risk,1st Cousin,second,0.125,6m,0.539245283,0.460754717,0.452033768,0.547966232,0.955764075,0.044235925,,
+2063,M,high_risk,Brother,first,0.5,6m,,,,,,,,
+2063,M,high_risk,Brother,first,0.5,3m,0.46919234,0.53080766,0.297380586,0.702619414,0.696132597,0.303867403,,
+2063,M,high_risk,Brother,first,0.5,9m,,,,,,,,
+2063,M,high_risk,Brother,first,0.5,12m,,,,,,,,
+2064,F,high_risk,Brother,first,0.5,9m,,,,,,,autism,24
+2064,F,high_risk,Brother,first,0.5,6m,,,,,,,autism,24
+2064,F,high_risk,Brother,first,0.5,3m,,,,,,,autism,24
+2064,F,high_risk,Brother,first,0.5,12m,0.451820128,0.548179872,0.483670295,0.516329705,,,autism,24
+2065,F,high_risk,1st Cousin,second,0.125,12m,0.48604342,0.51395658,0.39102969,0.60897031,0.04,0.96,non_asd,0
+2065,F,high_risk,1st Cousin,second,0.125,6m,,,,,,,non_asd,0
+2065,F,high_risk,1st Cousin,second,0.125,3m,,,,,,,non_asd,0
+2065,F,high_risk,1st Cousin,second,0.125,9m,0.617044623,0.382955377,0.546153846,0.453846154,0.736842105,0.263157895,non_asd,0
+2066,M,high_risk,Sister,first,0.5,6m,0.638673253,0.361326747,0.43065092,0.56934908,0.842475387,0.157524613,non_asd,6
+2066,M,high_risk,Sister,first,0.5,9m,0.510374833,0.489625167,0.473441818,0.526558182,0,1,non_asd,6
+2066,M,high_risk,Sister,first,0.5,3m,,,,,,,non_asd,6
+2066,M,high_risk,Sister,first,0.5,12m,0.584479371,0.415520629,0.559585492,0.440414508,0.672394044,0.327605956,non_asd,6
+2067,F,high_risk,Brother,first,0.5,9m,0.620858896,0.379141104,0.585561497,0.414438503,0,1,non_asd,2
+2067,F,high_risk,Brother,first,0.5,12m,0.576194086,0.423805914,0.546786922,0.453213078,0.671328671,0.328671329,non_asd,2
+2067,F,high_risk,Brother,first,0.5,6m,0.602201835,0.397798165,0.475085324,0.524914676,0.043066322,0.956933678,non_asd,2
+2067,F,high_risk,Brother,first,0.5,3m,0.575061526,0.424938474,0.303306727,0.696693273,0.911262799,0.088737201,non_asd,2
+2068,M,high_risk,1st Cousin,second,0.125,6m,,,0.434008097,0.565991903,,,,
+2068,M,high_risk,1st Cousin,second,0.125,12m,0.628410915,0.371589085,0.465005931,0.534994069,0.701754386,0.298245614,,
+2068,M,high_risk,1st Cousin,second,0.125,3m,,,,,,,,
+2068,M,high_risk,1st Cousin,second,0.125,9m,0.656060606,0.343939394,0.348484848,0.651515152,0.964396285,0.035603715,,
+2069,F,high_risk,"Brother, Uncle",first,0.5,3m,,,,,,,non_asd,5
+2069,F,high_risk,"Brother, Uncle",first,0.5,6m,0.731343284,0.268656716,0.44906125,0.55093875,0.79296875,0.20703125,non_asd,5
+2069,F,high_risk,"Brother, Uncle",first,0.5,12m,0.574079708,0.425920292,0.477977667,0.522022333,0.974943052,0.025056948,non_asd,5
+2069,F,high_risk,"Brother, Uncle",first,0.5,9m,0.052736318,0.472636816,0.422982885,0.577017115,1,0,non_asd,5
+2070,M,high_risk,Brother,first,0.5,12m,0.585102797,0.414897203,0.410094637,0.589905363,0.171288744,0.828711256,,
+2070,M,high_risk,Brother,first,0.5,3m,,,,,,,,
+2070,M,high_risk,Brother,first,0.5,6m,,,,,,,,
+2070,M,high_risk,Brother,first,0.5,9m,,,,,,,,
+2071,F,high_risk,Uncle,second,0.25,9m,,,0.633,0.367,0.198019802,0.801980198,non_asd,5
+2071,F,high_risk,Uncle,second,0.25,6m,0.459119497,0.540880503,0.869955157,0.130044843,0.167420814,0.832579186,non_asd,5
+2071,F,high_risk,Uncle,second,0.25,12m,0.66985138,0.33014862,0.330744794,0.669255206,0.084337349,0.915662651,non_asd,5
+2071,F,high_risk,Uncle,second,0.25,3m,0.682613769,0.317386231,0.208498024,0.791501976,0.6375,0.3625,non_asd,5
+2072,M,high_risk,1st Cousin,second,0.125,3m,0.970178926,0.029821074,0.640387275,0.359612725,0.59223301,0.40776699,non_asd,3
+2072,M,high_risk,1st Cousin,second,0.125,6m,0.601538976,0.398461024,0.480268927,0.519731073,0.931876607,0.068123393,non_asd,3
+2072,M,high_risk,1st Cousin,second,0.125,12m,0.586516854,0.413483146,0.56568779,0.43431221,0.903381643,0.096618357,non_asd,3
+2072,M,high_risk,1st Cousin,second,0.125,9m,,,0.654756381,0.345243619,0.678489703,0.321510297,non_asd,3
+2073,F,high_risk,1st Cousin,second,0.125,12m,,,,,,,,
+2073,F,high_risk,1st Cousin,second,0.125,6m,,,,,,,,
+2073,F,high_risk,1st Cousin,second,0.125,3m,0.968531469,0.031468531,0.665190434,0.334809566,0.245614035,0.754385965,,
+2073,F,high_risk,1st Cousin,second,0.125,9m,,,,,,,,
+2074,M,high_risk,1st Cousin,second,0.125,12m,0.576494845,0.423505155,0.501030928,0.498969072,0.91221374,0.08778626,non_asd,5
+2074,M,high_risk,1st Cousin,second,0.125,9m,0.528935905,0.471064095,0.607080673,0.392919327,1,0,non_asd,5
+2074,M,high_risk,1st Cousin,second,0.125,6m,0.690424543,0.309575457,0.557876628,0.442123372,0.922044399,0.077955601,non_asd,5
+2074,M,high_risk,1st Cousin,second,0.125,3m,0.685343463,0.314656537,0.474778991,0.525221009,0.449197861,0.550802139,non_asd,5
+2075,F,high_risk,1st Cousin,second,0.125,6m,0.550432277,0.449567723,0.667451442,0.332548558,0.761061947,0.238938053,non_asd,6
+2075,F,high_risk,1st Cousin,second,0.125,12m,,,,,,,non_asd,6
+2075,F,high_risk,1st Cousin,second,0.125,9m,0.656,0.344,0.555769231,0.444230769,1,0,non_asd,6
+2075,F,high_risk,1st Cousin,second,0.125,3m,0.724815725,0.275184275,0.578364566,0.421635434,1,0,non_asd,6
+2076,M,high_risk,1st Cousin,second,0.125,3m,,,,,,,non_asd,4
+2076,M,high_risk,1st Cousin,second,0.125,6m,0.547302032,0.452697968,0.597490852,0.402509148,0.782608696,0.217391304,non_asd,4
+2076,M,high_risk,1st Cousin,second,0.125,12m,0.471077505,0.528922495,0.393135011,0.606864989,0.668913858,0.331086142,non_asd,4
+2076,M,high_risk,1st Cousin,second,0.125,9m,0.569571865,0.430428135,0.398006645,0.601993355,0.704626335,0.295373665,non_asd,4
+2077,M,high_risk,Brother,first,0.5,3m,,,,,,,non_asd,3
+2077,M,high_risk,Brother,first,0.5,6m,,,,,,,non_asd,3
+2077,M,high_risk,Brother,first,0.5,9m,0.621095335,0.378904665,0.618712274,0.381287726,0.249130939,0.750869061,non_asd,3
+2077,M,high_risk,Brother,first,0.5,12m,0.500295334,0.499704666,0.431343284,0.568656716,1,0,non_asd,3
+2078,F,high_risk,1st Cousin,second,0.125,3m,0.644670051,0.355329949,0.5,0.5,,,non_asd,0
+2078,F,high_risk,1st Cousin,second,0.125,6m,0.609163347,0.390836653,0.476888747,0.523111253,0.299586777,0.700413223,non_asd,0
+2078,F,high_risk,1st Cousin,second,0.125,9m,0.566807314,0.433192686,0.5077951,0.4922049,0.305961755,0.694038245,non_asd,0
+2078,F,high_risk,1st Cousin,second,0.125,12m,,,,,,,non_asd,0
+2079,F,high_risk,1st Cousin,second,0.125,6m,0.411444142,0.588555858,0.51440678,0.48559322,,,,
+2079,F,high_risk,1st Cousin,second,0.125,3m,0.043478261,0.956521739,0.133333333,0.866666667,,,,
+2079,F,high_risk,1st Cousin,second,0.125,12m,,,,,,,,
+2079,F,high_risk,1st Cousin,second,0.125,9m,0.563650307,0.436349693,0.433534044,0.566465956,0.699788584,0.300211416,,
+2080,M,high_risk,1st Cousin,second,0.125,9m,,,,,,,,
+2080,M,high_risk,1st Cousin,second,0.125,6m,0.72899729,0.27100271,0.455961844,0.544038156,0.91587517,0.08412483,,
+2080,M,high_risk,1st Cousin,second,0.125,3m,,,,,,,,
+2080,M,high_risk,1st Cousin,second,0.125,12m,,,,,,,,
+2081,M,high_risk,1st Cousin,second,0.125,3m,0.416470588,0.583529412,0.338963964,0.661036036,,,,
+2081,M,high_risk,1st Cousin,second,0.125,6m,0.500640205,0.499359795,0.616083009,0.383916991,0.296969697,0.703030303,,
+2081,M,high_risk,1st Cousin,second,0.125,9m,0.565976714,0.434023286,0.33994709,0.66005291,0.813664596,0.186335404,,
+2081,M,high_risk,1st Cousin,second,0.125,12m,0.415517241,0.584482759,0.556603774,0.443396226,1,0,,
+2082,F,high_risk,Uncle,second,0.25,9m,0.523492723,0.476507277,0.583756345,0.416243655,0.097355769,0.902644231,autism,21
+2082,F,high_risk,Uncle,second,0.25,3m,,,,,,,autism,21
+2082,F,high_risk,Uncle,second,0.25,6m,0.456973294,0.543026706,0.635448916,0.364551084,1,0,autism,21
+2082,F,high_risk,Uncle,second,0.25,12m,0.57474146,0.42525854,0.508355615,0.491644385,0.10881295,0.89118705,autism,21
+2083,M,high_risk,Uncle,second,0.25,9m,0.65008881,0.34991119,0.296747967,0.703252033,1,0,non_asd,2
+2083,M,high_risk,Uncle,second,0.25,12m,0.691629956,0.308370044,0.350593312,0.649406688,0.941089838,0.058910162,non_asd,2
+2083,M,high_risk,Uncle,second,0.25,3m,0.497248211,0.502751789,0.566900556,0.433099444,0.967188289,0.032811711,non_asd,2
+2083,M,high_risk,Uncle,second,0.25,6m,0.712081295,0.287918705,0.459406714,0.540593286,0.981609195,0.018390805,non_asd,2
+2084,M,high_risk,1st Cousin,second,0.125,3m,0.406326034,0.593673966,0.258594918,0.741405082,0.732824427,0.267175573,non_asd,1
+2084,M,high_risk,1st Cousin,second,0.125,12m,0.709154114,0.290845886,0.415584416,0.584415584,0.777202073,0.222797927,non_asd,1
+2084,M,high_risk,1st Cousin,second,0.125,9m,0.577079482,0.422920518,0.567015707,0.432984293,0.936090226,0.063909774,non_asd,1
+2084,M,high_risk,1st Cousin,second,0.125,6m,0.608108108,0.391891892,,,0,1,non_asd,1
+2085,F,high_risk,1st Cousin,second,0.125,12m,0.608365019,0.391634981,0.46142389,0.53857611,0.306930693,0.693069307,,
+2085,F,high_risk,1st Cousin,second,0.125,3m,0.563150747,0.436849253,0.543929712,0.456070288,0.777251185,0.222748815,,
+2085,F,high_risk,1st Cousin,second,0.125,9m,0.690909091,0.309090909,0.459340012,0.540659988,0.058935361,0.941064639,,
+2085,F,high_risk,1st Cousin,second,0.125,6m,6.267870302,0.373249816,0.742056075,0.257943925,1,0,,
+2086,M,high_risk,Aunt,second,0.25,3m,0.57306956,0.42693044,0.299678457,0.700321543,1,0,non_asd,3
+2086,M,high_risk,Aunt,second,0.25,9m,0.602620087,0.397379913,0.60106383,0.39893617,0.16091954,0.83908046,non_asd,3
+2086,M,high_risk,Aunt,second,0.25,6m,0.753056235,0.246943765,0.416753927,0.583246073,1,0,non_asd,3
+2086,M,high_risk,Aunt,second,0.25,12m,0.59623431,0.40376569,0.704347826,0.295652174,0,1,non_asd,3
+2087,F,high_risk,2nd Cousin,second,0.0625,3m,0.43902439,0.56097561,0.480593247,0.519406753,0.192703461,0.807296539,,
+2087,F,high_risk,2nd Cousin,second,0.0625,6m,,,,,,,,
+2087,F,high_risk,2nd Cousin,second,0.0625,9m,,,,,,,,
+2087,F,high_risk,2nd Cousin,second,0.0625,12m,,,,,,,,
+2088,F,high_risk,Sister,first,0.5,6m,0.471005917,0.528994083,0.583003953,0.416996047,0.507042254,0.492957746,autism,24
+2088,F,high_risk,Sister,first,0.5,12m,,,,,,,autism,24
+2088,F,high_risk,Sister,first,0.5,3m,0.476489028,0.523510972,0.477598956,0.522401044,1,0,autism,24
+2088,F,high_risk,Sister,first,0.5,9m,0.427979751,0.572020249,0.421691623,0.578308377,0.872816212,0.127183788,autism,24
+2089,F,high_risk,Aunt,second,0.25,12m,0.48390411,0.51609589,0.581521739,0.418478261,0.844760673,0.155239327,non_asd,1
+2089,F,high_risk,Aunt,second,0.25,6m,0.669992872,0.330007128,0.383554648,0.616445352,1,0,non_asd,1
+2089,F,high_risk,Aunt,second,0.25,3m,0.709163347,0.290836653,0.986595174,0.013404826,1,0,non_asd,1
+2089,F,high_risk,Aunt,second,0.25,9m,0.3672858,0.6327142,0.676164003,0.323835997,0.777777778,0.222222222,non_asd,1
+2090,M,high_risk,Brother,first,0.5,12m,,,,,,,,
+2090,M,high_risk,Brother,first,0.5,3m,0.522222222,0.477777778,0.228571429,0.771428571,1,0,,
+2090,M,high_risk,Brother,first,0.5,6m,0.610705596,0.389294404,0.265368229,0.734631771,0.715133531,0.284866469,,
+2090,M,high_risk,Brother,first,0.5,9m,,,,,,,,
+2091,M,high_risk,uncle,second,0.25,3m,,,,,1,1,,
+2091,M,high_risk,uncle,second,0.25,6m,0.805416964,0.194583036,0.292296616,0.707703384,0.121212121,0.878787879,,
+2091,M,high_risk,uncle,second,0.25,9m,,,,,,,,
+2091 (sibling),NA,NA,NA,NA,NA,12m,,,,,,,,
+2091 (sibling),NA,NA,NA,NA,NA,12m,,,,,,,,
+2092,F,high_risk,Brother,first,0.5,12m,,,,,,,non_asd,4
+2092,F,high_risk,Brother,first,0.5,3m,0.269439421,0.730560579,0.530549111,0.469450889,0.721212121,0.278787879,non_asd,4
+2092,F,high_risk,Brother,first,0.5,6m,,,,,,,non_asd,4
+2092,F,high_risk,Brother,first,0.5,9m,,,,,,,non_asd,4
+2093,M,high_risk,Father,first,0.5,6m,,,,,,,non_asd,1
+2093,M,high_risk,Father,first,0.5,12m,,,,,,,non_asd,1
+2093,M,high_risk,Father,first,0.5,9m,,,,,,,non_asd,1
+2093,M,high_risk,Father,first,0.5,3m,0.302758621,0.697241379,0.804543053,0.195456947,1,0,non_asd,1
+2094,M,high_risk,he has autism related,first,0.5,9m,0.595863747,0.404136253,0.553944458,0.446055542,0.971449759,0.028550241,non_asd,1
+2094,M,high_risk,he has autism related,first,0.5,12m,0.609322689,0.390677311,0.57709623,0.42290377,0.967255335,0.032744665,non_asd,1
+2094,M,high_risk,he has autism related,first,0.5,3m,0.122507123,0.877492877,0.514049587,0.485950413,,,non_asd,1
+2094,M,high_risk,he has autism related,first,0.5,6m,0.612310667,0.387689333,0.513984744,0.486015256,0.304054054,0.695945946,non_asd,1
+2095,F,high_risk,"1st Cousin, 2nd Cousin",second,0.125,9m,0.62852349,0.37147651,0.536893204,0.463106796,0.947931526,0.052068474,non_asd,0
+2095,F,high_risk,"1st Cousin, 2nd Cousin",second,0.125,12m,0.47133758,0.52866242,0.569632495,0.430367505,0.274509804,0.725490196,non_asd,0
+2095,F,high_risk,"1st Cousin, 2nd Cousin",second,0.125,6m,,,,,,,non_asd,0
+2095,F,high_risk,"1st Cousin, 2nd Cousin",second,0.125,3m,,,,,1,1,non_asd,0
+2096,F,high_risk,Brother,first,0.5,9m,0.660338983,0.339661017,0.532736044,0.467263956,0.098275862,0.901724138,non_asd,0
+2096,F,high_risk,Brother,first,0.5,6m,,,,,,,non_asd,0
+2096,F,high_risk,Brother,first,0.5,3m,,,,,1,1,non_asd,0
+2096,F,high_risk,Brother,first,0.5,12m,0.553260329,0.446739671,0.48176006,0.51823994,0.2125,0.7875,non_asd,0
+2097,M,high_risk,Uncle,second,0.25,3m,0.264948454,0.735051546,0.678689731,0.321310269,0.936842105,0.063157895,non_asd,0
+2097,M,high_risk,Uncle,second,0.25,9m,0.472330475,0.527669525,0.608952287,0.391047713,0.029363785,0.970636215,non_asd,0
+2097,M,high_risk,Uncle,second,0.25,6m,0.469166667,0.530833333,0.599768652,0.400231348,0.398340249,0.601659751,non_asd,0
+2097,M,high_risk,Uncle,second,0.25,12m,,,,,,,non_asd,0
+2098,F,high_risk,Brother,first,0.5,3m,,,,,,,,
+2098,F,high_risk,Brother,first,0.5,6m,0.579157175,0.420842825,0.432338308,0.567661692,1,0,,
+2098,F,high_risk,Brother,first,0.5,12m,0.694623656,0.305376344,0.263157895,0.736842105,0.212244898,0.787755102,,
+2098,F,high_risk,Brother,first,0.5,9m,0.562183659,0.437816341,0.609793814,0.390206186,0.855483871,0.144516129,,
+2099,F,high_risk,1st Cousin,second,0.125,6m,0.290909091,0.709090909,0.626749611,0.373250389,,,,
+2099,F,high_risk,1st Cousin,second,0.125,9m,0.523012552,0.476987448,0.542306618,0.457693382,0.992524917,0.007475083,,
+2099,F,high_risk,1st Cousin,second,0.125,3m,0.589810017,0.410189983,0.480823864,0.519176136,0.281879195,0.718120805,,
+2099,F,high_risk,1st Cousin,second,0.125,12m,0.605841614,0.394158386,0.448387097,0.551612903,0.477027027,0.522972973,,
+2100,M,high_risk,1st Cousin,second,0.125,6m,0.555226407,0.444773593,0.529995489,0.470004511,1,0,,
+2100,M,high_risk,1st Cousin,second,0.125,9m,,,,,,,,
+2100,M,high_risk,1st Cousin,second,0.125,3m,0.542955326,0.457044674,1,0,,,,
+2100,M,high_risk,1st Cousin,second,0.125,12m,,,,,,,,
+2101,M,high_risk,Brother,first,0.5,6m,0.596105841,0.403894159,0.463837994,0.536162006,0.661417323,0.338582677,,
+2101,M,high_risk,Brother,first,0.5,3m,0.505555556,0.494444444,0.599012617,0.400987383,0.955431755,0.044568245,,
+2101,M,high_risk,Brother,first,0.5,12m,,,0.637606838,0.362393162,,,,
+2101,M,high_risk,Brother,first,0.5,9m,,,,,,,,
+2102,M,high_risk,1st Cousin,second,0.125,3m,0.676644348,0.323355652,0.461691542,0.538308458,0.194690265,0.805309735,non_asd,3
+2102,M,high_risk,1st Cousin,second,0.125,6m,0.644911,0.355089,0.369939507,0.630060493,0.563731932,0.436268068,non_asd,3
+2102,M,high_risk,1st Cousin,second,0.125,12m,0.305194805,0.694805195,0.537622683,0.462377317,0.75,0.25,non_asd,3
+2102,M,high_risk,1st Cousin,second,0.125,9m,0.603949731,0.396050269,0.649131514,0.350868486,0.384068279,0.615931721,non_asd,3
+2103,F,high_risk,Grandfather,second,0.25,9m,,,,,,,,
+2103,F,high_risk,Grandfather,second,0.25,6m,0.505394662,0.494605338,0.526969783,0.473030217,1,0,,
+2103,F,high_risk,Grandfather,second,0.25,3m,,,,,,,,
+2103,F,high_risk,Grandfather,second,0.25,12m,,,,,,,,
+2104,F,high_risk,Brother,first,0.5,6m,0.4378401,0.5621599,0.487535954,0.512464046,1,0,non_asd,3
+2104,F,high_risk,Brother,first,0.5,3m,0.412966252,0.587033748,0.527334852,0.472665148,,,non_asd,3
+2104,F,high_risk,Brother,first,0.5,12m,,,,,,,non_asd,3
+2104,F,high_risk,Brother,first,0.5,9m,,,,,,,non_asd,3
+2105,M,high_risk,Brother,first,0.5,3m,0.418518519,0.581481481,0.284153005,0.715846995,1,0,,
+2105,M,high_risk,Brother,first,0.5,9m,,,,,,,,
+2105,M,high_risk,Brother,first,0.5,12m,,,,,,,,
+2105,M,high_risk,Brother,first,0.5,6m,,,,,,,,
+2106,M,high_risk,Sister,first,0.5,6m,,,,,,,autism,16
+2106,M,high_risk,Sister,first,0.5,12m,0.481698733,0.518301267,0.631656805,0.368343195,0.382716049,0.617283951,autism,16
+2106,M,high_risk,Sister,first,0.5,9m,0.481863913,0.518136087,0.575035731,0.424964269,0.88080582,0.11919418,autism,16
+2106,M,high_risk,Sister,first,0.5,3m,,,,,,,autism,16
+2107,F,high_risk,Uncle,second,0.25,3m,0.361516035,0.638483965,0.553859203,0.446140797,,,,
+2107,F,high_risk,Uncle,second,0.25,12m,0.602082676,0.397917324,0.499079868,0.500920132,0.016494845,0.983505155,,
+2107,F,high_risk,Uncle,second,0.25,6m,0.489485134,0.510514866,0.476781857,0.550215983,0.700598802,0.299401198,,
+2107,F,high_risk,Uncle,second,0.25,9m,0.618476305,0.381523695,0.411902897,0.588097103,0.980166347,0.019833653,,
+2108,M,high_risk,1st Cousin,second,0.125,6m,0.55329087,0.44670913,0.556034483,0.443965517,0.60617284,0.39382716,,
+2108,M,high_risk,1st Cousin,second,0.125,12m,0.606629834,0.393370166,0.41328237,0.58671763,0.082483781,0.917516219,,
+2108,M,high_risk,1st Cousin,second,0.125,3m,0.525798526,0.474201474,0.544827586,0.455172414,0.46,0.54,,
+2108,M,high_risk,1st Cousin,second,0.125,9m,0.640059494,0.359940506,0.357075472,0.642924528,0.280346821,0.719653179,,
+2109,F,high_risk,2nd Cousin,second,0.0625,6m,0.579511834,0.420488166,0.449709865,0.550290135,0.084980237,0.915019763,,
+2109,F,high_risk,2nd Cousin,second,0.0625,12m,0.443902439,0.556097561,0.536484245,0.463515755,0.129032258,0.870967742,,
+2109,F,high_risk,2nd Cousin,second,0.0625,3m,0.486360612,0.513639388,0.552011096,0.447988904,0.863423761,0.136576239,,
+2109,F,high_risk,2nd Cousin,second,0.0625,9m,0.455357143,0.544642857,0.779342723,0.220657277,0.6,0.4,,
+2110,F,high_risk,Uncle,second,0.25,6m,0.58408862,0.41591138,0.452926209,0.547073791,0.66442953,0.33557047,,
+2110,F,high_risk,Uncle,second,0.25,9m,0.637181409,0.362818591,0.564063685,0.435936315,0.082872928,0.917127072,,
+2110,F,high_risk,Uncle,second,0.25,3m,,,,,,,,
+2110,F,high_risk,Uncle,second,0.25,12m,0.516853933,0.483146067,0.134146341,0.865853659,0.873015873,0.126984127,,
+2111,M,high_risk,Uncle,second,0.25,6m,6.189903846,3.819711538,0.441929399,0.558070601,13.91561181,0.092827004,,
+2111,M,high_risk,Uncle,second,0.25,3m,0.595179881,0.404820119,0.537944284,0.462055716,0.97754386,0.02245614,,
+2111,M,high_risk,Uncle,second,0.25,9m,0.545765194,0.454234806,0.477127398,0.522872602,0.451690821,0.548309179,,
+2111,M,high_risk,Uncle,second,0.25,12m,0.691828421,0.451953031,0.492717847,0.507282153,0.908875178,0.091124822,,
+2112,F,high_risk,Brother,first,0.5,3m,,,,,,,,
+2112,F,high_risk,Brother,first,0.5,9m,0.361477573,0.638522427,0.579637726,0.420362274,0.846625767,0.153374233,,
+2112,F,high_risk,Brother,first,0.5,12m,0,1,1,0,,,,
+2112,F,high_risk,Brother,first,0.5,6m,,,,,,,,
+2113,F,high_risk,Brother,first,0.5,3m,0.440776699,0.559223301,0.600606061,0.399393939,0.826739427,0.173260573,,
+2113,F,high_risk,Brother,first,0.5,12m,0.486387647,0.513612353,0.613716295,0.386283705,0.752066116,0.247933884,,
+2113,F,high_risk,Brother,first,0.5,6m,0.564079422,0.435920578,0.489156627,0.510843373,0,1,,
+2113,F,high_risk,Brother,first,0.5,9m,0.51257485,0.48742515,0.597039474,0.402960526,1,0,,
+2114,F,high_risk,1/2 sibling,first,0.25,3m,,,,,,,,
+2114,F,high_risk,1/2 sibling,first,0.25,9m,,,,,,,,
+2114,F,high_risk,1/2 sibling,first,0.25,12m,,,,,,,,
+2114,F,high_risk,1/2 sibling,first,0.25,6m,,,,,,,,
+2115,F,high_risk,Uncle,second,0.25,3m,,,,,,,,
+2115,F,high_risk,Uncle,second,0.25,9m,0.652173913,0.347826087,0.519940916,0.480059084,0.025525526,0.974474474,,
+2115,F,high_risk,Uncle,second,0.25,12m,,,,,,,,
+2115,F,high_risk,Uncle,second,0.25,6m,0.767251196,0.232748804,0.5614924,0.4385076,0.03746531,0.96253469,,
+2116,M,high_risk,Sister,first,0.5,3m,4.051724138,6.086206897,0.341155235,0.658844765,0.224137931,0.775862069,,
+2116,M,high_risk,Sister,first,0.5,9m,0.625290923,0.374709077,0.538653367,0.461346633,0.025236593,0.974763407,,
+2116,M,high_risk,Sister,first,0.5,12m,0.8121713,0.1878287,0.479240807,0.520759193,0.133663366,0.866336634,,
+2116,M,high_risk,Sister,first,0.5,6m,0.732463295,0.267536705,0.81393373,0.18606627,0.681818182,0.318181818,,
+2117,M,high_risk,1st Cousin,second,0.125,3m,,,0.287899861,0.712100139,,,,
+2117,M,high_risk,1st Cousin,second,0.125,12m,,,,,,,,
+2117,M,high_risk,1st Cousin,second,0.125,6m,,,,,,,,
+2117,M,high_risk,1st Cousin,second,0.125,9m,0.250737463,0.749262537,0.53164557,0.465822785,0,1,,
+2118,M,high_risk,1st Cousin,second,0.125,6m,0.55973025,0.44026975,0.425900748,0.574099252,1,0,,
+2118,M,high_risk,1st Cousin,second,0.125,9m,0.641769606,0.358230394,0.45035461,0.54964539,0.458874459,0.541125541,,
+2118,M,high_risk,1st Cousin,second,0.125,3m,0.538348083,0.461651917,0.287899861,0.712100139,1,0,,
+2118,M,high_risk,1st Cousin,second,0.125,12m,0.631393775,0.368606225,0.566275924,0.433724076,0.356575964,0.643424036,,
+2119,F,high_risk,Uncle,second,0.25,3m,,,,,,,autism_spectrum,16
+2119,F,high_risk,Uncle,second,0.25,9m,0.564907275,0.435092725,0.597432905,0.402567095,0.545614035,0.454385965,autism_spectrum,16
+2119,F,high_risk,Uncle,second,0.25,6m,,,,,,,autism_spectrum,16
+2119,F,high_risk,Uncle,second,0.25,12m,0.777387914,0.222612086,0.467602592,0.532397408,0.883183569,0.116816431,autism_spectrum,16
+2120,F,high_risk,2nd Cousin,second,0.0625,9m,0.817204301,0.182795699,0.415730337,0.584269663,,,,
+2120,F,high_risk,2nd Cousin,second,0.0625,12m,0.545822102,0.454177898,0.719787517,0.280212483,0.375838926,0.624161074,,
+2120,F,high_risk,2nd Cousin,second,0.0625,3m,,,,,,,,
+2120,F,high_risk,2nd Cousin,second,0.0625,6m,,,,,,,,
+2121,M,high_risk,"2nd Cousin, Mother",first,0.5,6m,,,,,,,autism_spectrum,16
+2121,M,high_risk,"2nd Cousin, Mother",first,0.5,12m,,,,,,,autism_spectrum,16
+2121,M,high_risk,"2nd Cousin, Mother",first,0.5,9m,0.353403141,0.646596859,0.604042806,0.395957194,0.55513308,0.44486692,autism_spectrum,16
+2121,M,high_risk,"2nd Cousin, Mother",first,0.5,3m,,,,,,,autism_spectrum,16
+2122,M,high_risk,2nd Cousin,second,0.0625,3m,,,,,,,non_asd,4
+2122,M,high_risk,2nd Cousin,second,0.0625,12m,0.468772961,0.531227039,0.428745432,0.571254568,0.38490566,0.61509434,non_asd,4
+2122,M,high_risk,2nd Cousin,second,0.0625,9m,0.550703183,0.449296817,0.366697848,0.633302152,0.233333333,0.766666667,non_asd,4
+2122,M,high_risk,2nd Cousin,second,0.0625,6m,,,,,,,non_asd,4
+2123,F,high_risk,"1st Cousin, Aunt",second,0.25,12m,,,,,,,autism,16
+2123,F,high_risk,"1st Cousin, Aunt",second,0.25,9m,,,,,,,autism,16
+2123,F,high_risk,"1st Cousin, Aunt",second,0.25,3m,,,,,,,autism,16
+2123,F,high_risk,"1st Cousin, Aunt",second,0.25,6m,0.761918438,0.238081562,0.431196984,0.568803016,0.696407186,0.303592814,autism,16
+2124,F,high_risk,2nd Cousin,second,0.0625,6m,,,0.241025641,0.758974359,,,autism,16
+2124,F,high_risk,2nd Cousin,second,0.0625,12m,0.535412027,0.464587973,0.471925134,0.528074866,0.101479915,0.898520085,autism,16
+2124,F,high_risk,2nd Cousin,second,0.0625,3m,,,,,,,autism,16
+2124,F,high_risk,2nd Cousin,second,0.0625,9m,0.611611612,0.388388388,0.382050372,0.617949628,0.358547655,0.641452345,autism,16
+2125,F,high_risk,2nd Cousin,second,0.0625,6m,,,,,,,,
+2125,F,high_risk,2nd Cousin,second,0.0625,12m,0.515010007,0.484989993,0.394680851,0.605319149,0.283333333,0.716666667,,
+2125,F,high_risk,2nd Cousin,second,0.0625,9m,,,0.727507756,0.272492244,0.253263708,0.746736292,,
+2125,F,high_risk,2nd Cousin,second,0.0625,3m,0.65737919,0.346974314,0.727507756,0.272492244,0.253263708,0.746736292,,
+2126,F,high_risk,Sister,first,0.5,6m,,,,,,,,
+2126,F,high_risk,Sister,first,0.5,12m,,,,,,,,
+2126,F,high_risk,Sister,first,0.5,9m,,,,,,,,
+2126,F,high_risk,Sister,first,0.5,3m,0.719242902,0.280757098,0.445561139,0.554438861,1,0,,
+2127,F,high_risk,2nd Cousin,second,0.0625,6m,0.644271845,0.355728155,0.390602753,0.609397247,0.589523065,0.410476935,,
+2127,F,high_risk,2nd Cousin,second,0.0625,3m,,,,,,,,
+2127,F,high_risk,2nd Cousin,second,0.0625,12m,0.484641638,0.515358362,0.456140351,0.543859649,0,1,,
+2127,F,high_risk,2nd Cousin,second,0.0625,9m,,,,,,,,
+2128,F,high_risk,1st Cousin,second,0.125,3m,,,,,,,,
+2128,F,high_risk,1st Cousin,second,0.125,12m,0.669064748,0.330935252,0.185,0.815,1,0,,
+2128,F,high_risk,1st Cousin,second,0.125,9m,0.698060942,0.301939058,0.173529412,0.826470588,0.208333333,0.791666667,,
+2128,F,high_risk,1st Cousin,second,0.125,6m,0.588235294,0.411764706,0.241025641,0.758974359,0.60952381,0.39047619,,
+2129,M,high_risk,Uncle,second,0.25,6m,,,,,,,,
+2129,M,high_risk,Uncle,second,0.25,3m,0.505793743,0.497103129,0.378285714,0.621714286,0.948051948,0.051948052,,
+2129,M,high_risk,Uncle,second,0.25,12m,0.466887417,0.533112583,0.523188068,0.476811932,0.94214876,0.05785124,,
+2129,M,high_risk,Uncle,second,0.25,9m,0.508280255,0.491719745,0.389012621,0.610987379,0.970588235,0.029411765,,
+2130,M,high_risk,Uncle,second,0.25,3m,,,,,,,,
+2130,M,high_risk,Uncle,second,0.25,6m,0.121475054,0.878524946,0.336263736,0.663736264,0.307692308,0.692307692,,
+2130,M,high_risk,Uncle,second,0.25,9m,0.896024465,0.103975535,0.35443038,0.64556962,0.065789474,0.934210526,,
+2130,M,high_risk,Uncle,second,0.25,12m,3.461538462,6.769230769,0.819971871,0.180028129,,,,
+2131,F,high_risk,Grandfather,second,0.25,6m,0.613060017,0.386939983,0.510442965,0.489557035,0.133155792,0.866844208,,
+2131,F,high_risk,Grandfather,second,0.25,3m,0.613060017,0.386939983,0.510442965,0.489557035,0.133155792,0.866844208,,
+2131,F,high_risk,Grandfather,second,0.25,12m,,,,,,,,
+2131,F,high_risk,Grandfather,second,0.25,9m,0.569023569,0.430976431,0.558578567,0.441421433,0.184512428,0.815487572,,
+2132,M,high_risk,NA,NA,0,3m,,,,,,,,
+2132,M,high_risk,NA,NA,0,9m,,,,,,,,
+2132,M,high_risk,NA,NA,0,12m,,,,,,,,
+2132,M,high_risk,NA,NA,0,6m,0.6582365,0.3417635,0.536713287,0.463286713,0.961625282,0.038374718,,
+2133,F,high_risk,cousin,second,0.125,6m,,,,,,,,
+2133,F,high_risk,cousin,second,0.125,9m,0.523435641,0.476564359,0.503634161,0.496365839,0.727918782,0.272081218,,
+2133,F,high_risk,cousin,second,0.125,12m,0.498083161,0.316130935,0.526131533,0.473868467,0.333647059,0.666352941,,
+2133,F,high_risk,cousin,second,0.125,3m,,,,,,,,
+2134,F,high_risk,1st Cousin,second,0.125,3m,0.447272727,0.552727273,0.408924205,0.591075795,0.190082645,0.801652893,,
+2134,F,high_risk,1st Cousin,second,0.125,12m,,,,,,,,
+2134,F,high_risk,1st Cousin,second,0.125,6m,0.522038567,0.477961433,0.418844221,0.581155779,0.751364463,0.248635537,,
+2134,F,high_risk,1st Cousin,second,0.125,9m,,,,,,,,
+2135,M,high_risk,Father,first,0.5,9m,,,,,,,,
+2135,M,high_risk,Father,first,0.5,12m,0.48109811,0.51890189,0.548889625,0.451110375,0.066496164,0.933503836,,
+2135,M,high_risk,Father,first,0.5,6m,0.507205514,0.492794486,0.541577825,0.458422175,0.620041754,0.379958246,,
+2135,M,high_risk,Father,first,0.5,3m,0.532171582,0.467828418,0.618644068,0.381355932,0,1,,
+2136,M,high_risk,Brother,first,0.5,6m,,,,,,,,
+2136,M,high_risk,Brother,first,0.5,12m,,,,,,,,
+2136,M,high_risk,Brother,first,0.5,9m,0.749012458,0.250987542,0.379919679,0.620080321,0,1,,
+2136,M,high_risk,Brother,first,0.5,3m,0.550196012,0.449803988,0.479573214,0.520426786,0.698305085,0.301694915,,
+2137,F,high_risk,"2nd Cousin, Uncle",second,0.25,6m,,,,,,,,
+2137,F,high_risk,"2nd Cousin, Uncle",second,0.25,3m,,,,,,,,
+2137,F,high_risk,"2nd Cousin, Uncle",second,0.25,12m,,,,,,,,
+2137,F,high_risk,"2nd Cousin, Uncle",second,0.25,9m,0.470873786,0.529126214,0.495176849,0.504823151,1,0,,
+2138,M,high_risk,"1st Cousin, Uncle",second,0.25,6m,,,,,,,,
+2138,M,high_risk,"1st Cousin, Uncle",second,0.25,3m,0.455396967,0.544603033,0.599647266,0.400352734,0.9015625,0.0984375,,
+2138,M,high_risk,"1st Cousin, Uncle",second,0.25,9m,0.631564551,0.368435449,0.383401704,0.616598296,0.631136045,0.368863955,,
+2138,M,high_risk,"1st Cousin, Uncle",second,0.25,12m,0.538194444,0.461805556,0.387415176,0.612584824,0.061573546,0.938426454,,
+2139,F,high_risk,Brother,first,0.5,3m,0.379443586,0.620556414,0.331026528,0.668973472,1.15625,0.265625,,
+2139,F,high_risk,Brother,first,0.5,12m,,,,,,,,
+2139,F,high_risk,Brother,first,0.5,9m,0.515760112,0.484239888,0.457380457,0.542619543,0.004151531,0.995848469,,
+2139,F,high_risk,Brother,first,0.5,6m,0.645124062,0.354875938,0.436327739,0.563672261,0.449392713,0.550607287,,
+2140,M,high_risk,1st Cousin,second,0.125,9m,,,,,,,,
+2140,M,high_risk,1st Cousin,second,0.125,6m,0.454379562,0.545620438,0.59633758,0.40366242,0,1,,
+2140,M,high_risk,1st Cousin,second,0.125,3m,,,,,,,,
+2140,M,high_risk,1st Cousin,second,0.125,12m,0.655072464,0.344927536,0.499262537,0.500737463,0.981538462,0.018461538,,
+2141,M,high_risk,Uncle,second,0.25,3m,0.266871166,0.733128834,0.41576087,0.58423913,1,0,,
+2141,M,high_risk,Uncle,second,0.25,6m,0.641807003,0.358192997,0.509855769,0.490144231,0.93951094,0.06048906,,
+2141,M,high_risk,Uncle,second,0.25,12m,,,,,,,,
+2141,M,high_risk,Uncle,second,0.25,9m,0.525244913,0.474755087,0.424041298,0.575958702,0.004255319,0.995744681,,
+2142,M,high_risk,Uncle,second,0.25,6m,0.493975904,0.506024096,0.472727273,0.527272727,0.454545455,0.545454545,,
+2142,M,high_risk,Uncle,second,0.25,3m,0.458628842,0.541371158,0.606776181,0.393223819,0.278232406,0.721767594,,
+2142,M,high_risk,Uncle,second,0.25,12m,,,,,,,,
+2142,M,high_risk,Uncle,second,0.25,9m,0.395504253,0.604495747,0.455020313,0.544979687,0.364050057,0.635949943,,
+2143,M,high_risk,Great Uncle,second,0.125,6m,0.464471404,0.535528596,0.637369392,0.362630608,0.335365854,0.664634146,,
+2143,M,high_risk,Great Uncle,second,0.125,3m,0.357037037,0.642962963,0.277389277,0.722610723,0.660436137,0.339563863,,
+2143,M,high_risk,Great Uncle,second,0.125,12m,,,,,,,,
+2143,M,high_risk,Great Uncle,second,0.125,9m,0.516032064,0.483967936,0.411701557,0.588298443,0.088405797,0.911594203,,
+2144,M,high_risk,1st Cousin,second,0.125,9m,0.778735632,0.221264368,0.669658887,0.330341113,0.766642282,0.233357718,,
+2144,M,high_risk,1st Cousin,second,0.125,12m,,,,,,,,
+2144,M,high_risk,1st Cousin,second,0.125,3m,0.596626506,0.403373494,0.473820297,0.526179703,0.804316547,0.195683453,,
+2144,M,high_risk,1st Cousin,second,0.125,6m,0.673425367,0.326574633,0.429533025,0.570466975,0.975903614,0.024096386,,
+2145,F,high_risk,1st Cousin,second,0.125,9m,0.619768477,0.380231523,0.418375394,0.581624606,0.001976285,0.998023715,,
+2145,F,high_risk,1st Cousin,second,0.125,6m,0.542523624,0.457476376,0.510996724,0.489003276,1,0,,
+2145,F,high_risk,1st Cousin,second,0.125,3m,0.577536825,0.422463175,0.535409932,0.464590068,1,0,,
+2145,F,high_risk,1st Cousin,second,0.125,12m,,,,,,,,
+2146,M,high_risk,1st Cousin,second,0.125,6m,,,0.174664107,0.825335893,,,,
+2146,M,high_risk,1st Cousin,second,0.125,12m,,,,,,,,
+2146,M,high_risk,1st Cousin,second,0.125,9m,,,,,,,,
+2146,M,high_risk,1st Cousin,second,0.125,3m,,,,,,,,
+2147,M,high_risk,Aunt,second,0.25,9m,,,,,,,,
+2147,M,high_risk,Aunt,second,0.25,3m,,,0.775229358,0.224770642,0.83125,0.16875,,
+2147,M,high_risk,Aunt,second,0.25,12m,,,,,,,,
+2147,M,high_risk,Aunt,second,0.25,6m,,,0.230822631,0.769177369,,,,
+2148,F,high_risk,NA,NA,0,9m,,,,,,,,
+2148,F,high_risk,NA,NA,0,6m,,,0.632638889,0.367361111,,,,
+2148,F,high_risk,NA,NA,0,3m,,,,,,,,
+2148,F,high_risk,NA,NA,0,12m,,,,,,,,
+2149,F,high_risk,"1st Cousin, Uncle",second,0.25,6m,,,,,,,,
+2149,F,high_risk,"1st Cousin, Uncle",second,0.25,3m,,,,,,,,
+2149,F,high_risk,"1st Cousin, Uncle",second,0.25,12m,,,,,,,,
+2149,F,high_risk,"1st Cousin, Uncle",second,0.25,9m,,,0.404304381,0.595695619,,,,
+2150,F,high_risk,1st Cousin,second,0.125,12m,,,,,,,,
+2150,F,high_risk,1st Cousin,second,0.125,9m,,,,,,,,
+2150,F,high_risk,1st Cousin,second,0.125,3m,,,0.550503297,0.449496703,0.948760331,0.051239669,,
+2150,F,high_risk,1st Cousin,second,0.125,6m,,,,,,,,
+2151,F,high_risk,Brother,first,0.5,3m,,,0.578666667,0.421333333,0.916067146,0.083932854,,
+2151,F,high_risk,Brother,first,0.5,6m,,,0.33,0.67,,,,
+2151,F,high_risk,Brother,first,0.5,12m,,,,,,,,
+2151,F,high_risk,Brother,first,0.5,9m,,,,,,,,
+2152,M,high_risk,1st Cousin,second,0.125,6m,0.387878788,0.612121212,0.02739726,0.97260274,0.962199313,0.037800687,,
+2152,M,high_risk,1st Cousin,second,0.125,3m,,,0.155635063,0.844364937,1,0,,
+2152,M,high_risk,1st Cousin,second,0.125,12m,,,,,,,,
+2152,M,high_risk,1st Cousin,second,0.125,9m,0.620216606,0.379783394,0.504901961,0.495098039,0.962199313,0.037800687,,
+2153,M,high_risk,Uncle,second,0.25,6m,,,,,,,,
+2153,M,high_risk,Uncle,second,0.25,3m,,,0.462861073,0.537138927,0.990189666,0.009810334,,
+2153,M,high_risk,Uncle,second,0.25,12m,,,,,,,,
+2153,M,high_risk,Uncle,second,0.25,9m,,,,,,,,
+2154,F,high_risk,1st Cousin,second,0.125,9m,0.692307692,0.307692308,0.526315789,0.473684211,0.864864865,0.135135135,,
+2154,F,high_risk,1st Cousin,second,0.125,12m,,,,,,,,
+2154,F,high_risk,1st Cousin,second,0.125,3m,,,,,,,,
+2154,F,high_risk,1st Cousin,second,0.125,6m,,,,,,,,
+2155,F,high_risk,NA,NA,0,9m,,,0.646671061,0.353328939,,,,
+2155,F,high_risk,NA,NA,0,3m,0.41583689,0.58416311,0.574579222,0.425420778,0.939759036,0.060240964,,
+2155,F,high_risk,NA,NA,0,12m,,,,,,,,
+2155,F,high_risk,NA,NA,0,6m,0.619207003,0.380792997,0.568146417,0.431853583,0,1,,
+2155,F,high_risk,NA,NA,0,9m,,,0.574579222,0.425420778,,,,
+2155 (from physiccal folder),NA,NA,NA,NA,NA,9m,,,,,,,,
+2156,M,high_risk,Brother,first,0.5,6m,,,0.456509995,0.543490005,,,,
+2156,M,high_risk,Brother,first,0.5,9m,,,,,,,,
+2156,M,high_risk,Brother,first,0.5,12m,,,,,,,,
+2156,M,high_risk,Brother,first,0.5,3m,,,0.684934648,0.315065352,0.804535637,0.195464363,,
+2157,F,high_risk,Uncle,second,0.25,6m,,,,,,,,
+2157,F,high_risk,Uncle,second,0.25,9m,,,,,,,,
+2157,F,high_risk,Uncle,second,0.25,12m,,,,,,,,
+2157,F,high_risk,Uncle,second,0.25,3m,,,,,,,,
+2158,M,high_risk,Uncle,second,0.25,3m,,,,,,,,
+2158,M,high_risk,Uncle,second,0.25,9m,,,,,,,,
+2158,M,high_risk,Uncle,second,0.25,12m,,,,,,,,
+2158,M,high_risk,Uncle,second,0.25,6m,0.500183083,0.499816917,0.387835703,0.612164297,0.043478261,0.956521739,,
+2159,M,high_risk,2nd Cousin,second,0.0625,9m,0.562615101,0.437384899,0.39,0.61,1,0,,
+2159,M,high_risk,2nd Cousin,second,0.0625,3m,,,,,,,,
+2159,M,high_risk,2nd Cousin,second,0.0625,12m,,,,,,,,
+2159,M,high_risk,2nd Cousin,second,0.0625,6m,,,,,,,,
+2160,M,high_risk,Brother,first,0.5,3m,,,,,,,,
+2160,M,high_risk,Brother,first,0.5,12m,,,,,,,,
+2160,M,high_risk,Brother,first,0.5,6m,,,,,,,,
+2160,M,high_risk,Brother,first,0.5,9m,0.38195122,0.61804878,0.644567219,0.355432781,0,1,,
+2161,F,high_risk,Aunt,second,0.25,9m,,,,,,,,
+2161,F,high_risk,Aunt,second,0.25,3m,0.210124164,0.789875836,0.410788382,0.589211618,0.442437923,0.557562077,,
+2161,F,high_risk,Aunt,second,0.25,12m,,,,,,,,
+2161,F,high_risk,Aunt,second,0.25,6m,,,,,,,,
+2162,M,high_risk,Uncle,second,0.25,6m,,,,,,,,
+2162,M,high_risk,Uncle,second,0.25,3m,,,0.311878845,0.688121155,1,0,,
+2162,M,high_risk,Uncle,second,0.25,9m,,,,,,,,
+2162,M,high_risk,Uncle,second,0.25,12m,,,,,,,,
+2163,F,high_risk,2nd Cousin,second,0.0625,9m,,,,,,,,
+2163,F,high_risk,2nd Cousin,second,0.0625,3m,,,0.485507246,0.514492754,0.921052632,0.078947368,,
+2163,F,high_risk,2nd Cousin,second,0.0625,12m,,,,,,,,
+2163,F,high_risk,2nd Cousin,second,0.0625,6m,,,0.612655801,0.387344199,,,,
+2164,F,high_risk,"1st Cousin, Sister",first,0.5,3m,,,,,,,,
+2164,F,high_risk,"1st Cousin, Sister",first,0.5,9m,,,,,,,,
+2164,F,high_risk,"1st Cousin, Sister",first,0.5,12m,,,,,,,,
+2164,F,high_risk,"1st Cousin, Sister",first,0.5,6m,,,0.6,0.4,,,,
+2165,M,high_risk,1st Cousin,second,0.125,3m,,,0.48,0.52,1,0,,
+2165,M,high_risk,1st Cousin,second,0.125,9m,,,,,,,,
+2165,M,high_risk,1st Cousin,second,0.125,12m,,,,,,,,
+2165,M,high_risk,1st Cousin,second,0.125,6m,,,,,,,,
+2166,F,high_risk,Uncle,second,0.25,6m,,,0.394422311,0.605577689,,,,
+2166,F,high_risk,Uncle,second,0.25,9m,,,,,,,,
+2166,F,high_risk,Uncle,second,0.25,12m,,,,,,,,
+2166,F,high_risk,Uncle,second,0.25,3m,,,,,,,,
+2167,M,high_risk,1st Cousin,second,0.125,3m,,,,,,,,
+2167,M,high_risk,1st Cousin,second,0.125,6m,,,,,,,,
+2167,M,high_risk,1st Cousin,second,0.125,12m,,,,,,,,
+2167,M,high_risk,1st Cousin,second,0.125,9m,,,,,,,,
+2168,M,high_risk,1st Cousin,second,0.125,3m,,,,,,,,
+2168,M,high_risk,1st Cousin,second,0.125,9m,,,,,,,,
+2168,M,high_risk,1st Cousin,second,0.125,12m,,,,,,,,
+2168,M,high_risk,1st Cousin,second,0.125,6m,,,0.336438152,0.663561848,,,,
+2169,M,high_risk,NA,NA,0,3m,,,,,,,,
+2169,M,high_risk,NA,NA,0,6m,,,0.181818182,0.818181818,,,,
+2169,M,high_risk,NA,NA,0,9m,,,,,,,,
+2169,M,high_risk,NA,NA,0,12m,,,,,,,,
+2170,F,high_risk,sister,first,0.5,3m,,,,,,,,
+2170,F,high_risk,sister,first,0.5,6m,,,,,,,,
+2170,F,high_risk,sister,first,0.5,12m,,,,,,,,
+2170,F,high_risk,sister,first,0.5,9m,,,,,,,,
+2171,M,high_risk,"2nd Cousin, Sister",first,0.5,3m,,,,,,,,
+2171,M,high_risk,"2nd Cousin, Sister",first,0.5,6m,,,0.391485423,0.608514577,,,,
+2171,M,high_risk,"2nd Cousin, Sister",first,0.5,9m,,,,,,,,
+2171,M,high_risk,"2nd Cousin, Sister",first,0.5,12m,,,,,,,,
+2172,M,high_risk,Uncle,second,0.25,3m,,,,,,,,
+2172,M,high_risk,Uncle,second,0.25,9m,,,,,,,,
+2172,M,high_risk,Uncle,second,0.25,6m,,,,,,,,
+2172,M,high_risk,Uncle,second,0.25,12m,,,,,,,,
+2173,M,high_risk,Sister,first,0.5,3m,,,,,,,,
+2173,M,high_risk,Sister,first,0.5,6m,,,,,,,,
+2173,M,high_risk,Sister,first,0.5,9m,,,,,,,,
+2173,M,high_risk,Sister,first,0.5,12m,,,,,,,,
+2174,F,high_risk,NA,NA,0,9m,,,,,,,,
+2174,F,high_risk,NA,NA,0,6m,,,,,,,,
+2174,F,high_risk,NA,NA,0,12m,,,,,,,,
+2174,F,high_risk,NA,NA,0,3m,,,,,,,,
+2175,M,high_risk,NA,NA,0,3m,,,,,,,,
+2175,M,high_risk,NA,NA,0,6m,,,,,,,,
+2175,M,high_risk,NA,NA,0,12m,,,,,,,,
+2175,M,high_risk,NA,NA,0,9m,,,,,,,,
+2176,M,high_risk,NA,NA,0,3m,,,,,,,,
+2176,M,high_risk,NA,NA,0,9m,,,,,,,,
+2176,M,high_risk,NA,NA,0,12m,,,,,,,,
+2176,M,high_risk,NA,NA,0,6m,,,,,,,,
+2177,F,high_risk,NA,NA,0,3m,,,,,,,,
+2177,F,high_risk,NA,NA,0,6m,,,,,,,,
+2177,F,high_risk,NA,NA,0,9m,,,,,,,,
+2177,F,high_risk,NA,NA,0,12m,,,,,,,,
+2178,M,high_risk,NA,NA,0,9m,,,,,,,,
+2178,M,high_risk,NA,NA,0,3m,,,,,,,,
+2178,M,high_risk,NA,NA,0,6m,,,,,,,,
+2178,M,high_risk,NA,NA,0,12m,,,,,,,,
+2501,F,low_risk,NA,no_risk,0,6m,,,,,,,,
+2501,F,low_risk,NA,no_risk,0,3m,,,,,,,,
+2501,F,low_risk,NA,no_risk,0,9m,,,,,,,,
+2501,F,low_risk,NA,no_risk,0,12m,,,,,,,,
+2502,M,low_risk,NA,no_risk,0,3m,,,,,,,,
+2502,M,low_risk,NA,no_risk,0,12m,,,,,,,,
+2502,M,low_risk,NA,no_risk,0,6m,,,,,,,,
+2502,M,low_risk,NA,no_risk,0,9m,,,,,,,,
+2503,M,low_risk,NA,no_risk,0,3m,,,,,,,autism,12
+2503,M,low_risk,NA,no_risk,0,9m,,,,,,,autism,12
+2503,M,low_risk,NA,no_risk,0,6m,,,,,,,autism,12
+2503,M,low_risk,NA,no_risk,0,12m,,,,,,,autism,12
+2504,M,high_risk,1st Cousin,second,0.125,3m,,,,,,,autism,16
+2504,M,high_risk,1st Cousin,second,0.125,6m,,,,,,,autism,16
+2504,M,high_risk,1st Cousin,second,0.125,12m,,,,,,,autism,16
+2504,M,high_risk,1st Cousin,second,0.125,9m,,,,,,,autism,16
+2505,F,low_risk,NA,no_risk,0,3m,,,,,,,non_asd,1
+2505,F,low_risk,NA,no_risk,0,9m,,,0.561014263,0.438985737,,,non_asd,1
+2505,F,low_risk,NA,no_risk,0,12m,,,,,0.940140845,0.059859155,non_asd,1
+2505,F,low_risk,NA,no_risk,0,6m,,,,,,,non_asd,1
+2506,F,low_risk,NA,no_risk,0,12m,,,0.64548495,0.35451505,,,non_asd,0
+2506,F,low_risk,NA,no_risk,0,9m,,,0.742331288,0.257668712,,,non_asd,0
+2506,F,low_risk,NA,no_risk,0,6m,,,0.538839436,0.461160564,0.926266716,0.073733284,non_asd,0
+2506,F,low_risk,NA,no_risk,0,3m,,,,,,,non_asd,0
+2507,F,low_risk,NA,no_risk,0,3m,,,,,,,,
+2507,F,low_risk,NA,no_risk,0,9m,,,,,,,,
+2507,F,low_risk,NA,no_risk,0,12m,,,,,,,,
+2507,F,low_risk,NA,no_risk,0,6m,,,,,,,,
+2508,M,low_risk,NA,no_risk,0,12m,,,,,,,non_asd,1
+2508,M,low_risk,NA,no_risk,0,6m,,,0.425876011,0.574123989,,,non_asd,1
+2508,M,low_risk,NA,no_risk,0,3m,,,,,,,non_asd,1
+2508,M,low_risk,NA,no_risk,0,9m,,,0.334437086,0.665562914,,,non_asd,1
+2509,F,low_risk,NA,no_risk,0,12m,,,0.194610778,0.805389222,,,autism,12
+2509,F,low_risk,NA,no_risk,0,6m,,,,,,,autism,12
+2509,F,low_risk,NA,no_risk,0,9m,,,0.377110694,0.622889306,,,autism,12
+2509,F,low_risk,NA,no_risk,0,3m,,,,,,,autism,12
+2510,F,low_risk,NA,no_risk,0,6m,,,0.49646547,0.50353453,0.478175896,0.521824104,non_asd,3
+2510,F,low_risk,NA,no_risk,0,3m,,,0.702541106,0.297458894,,,non_asd,3
+2510,F,low_risk,NA,no_risk,0,12m,,,0.407707911,0.592292089,,,non_asd,3
+2510,F,low_risk,NA,no_risk,0,9m,,,0.642608696,0.357391304,0.879287599,0.120712401,non_asd,3
+2511,M,low_risk,NA,no_risk,0,3m,,,0.084558824,0.915441176,,,,
+2511,M,low_risk,NA,no_risk,0,6m,,,0.611581921,0.388418079,,,,
+2511,M,low_risk,NA,no_risk,0,9m,,,,,,,,
+2511,M,low_risk,NA,no_risk,0,12m,,,0.74665968,0.25334032,0,1,,
+2512,M,low_risk,NA,no_risk,0,3m,,,,,,,,
+2512,M,low_risk,NA,no_risk,0,12m,,,,,,,,
+2512,M,low_risk,NA,no_risk,0,9m,,,0.420615213,0.579384787,0.661419021,0.337934009,,
+2512,M,low_risk,NA,no_risk,0,6m,,,0.56019052,0.43980948,0.972242302,0.027757698,,
+2513,M,low_risk,NA,no_risk,0,6m,,,0.522317933,0.477682067,,,non_asd,0
+2513,M,low_risk,NA,no_risk,0,9m,,,0.552552553,0.447447447,,,non_asd,0
+2513,M,low_risk,NA,no_risk,0,12m,,,,,,,non_asd,0
+2513,M,low_risk,NA,no_risk,0,3m,,,,,,,non_asd,0
+2514,M,low_risk,NA,no_risk,0,6m,,,0.498020647,0.501979353,0.561619267,0.438380733,,
+2514,M,low_risk,NA,no_risk,0,12m,,,,,,,,
+2514,M,low_risk,NA,no_risk,0,9m,,,,,,,,
+2514,M,low_risk,NA,no_risk,0,3m,,,0.533668342,0.466331658,,,,
+2515,M,low_risk,NA,no_risk,0,6m,,,0.430362117,0.569637883,0.906654221,0.093345779,non_asd,6
+2515,M,low_risk,NA,no_risk,0,12m,,,,,,,non_asd,6
+2515,M,low_risk,NA,no_risk,0,3m,,,1,0,,,non_asd,6
+2515,M,low_risk,NA,no_risk,0,9m,,,0.496163683,0.503836317,,,non_asd,6
+2516,F,low_risk,NA,no_risk,0,6m,,,,,,,,
+2516,F,low_risk,NA,no_risk,0,9m,,,,,,,,
+2516,F,low_risk,NA,no_risk,0,12m,,,,,,,,
+2516,F,low_risk,NA,no_risk,0,3m,,,,,,,,
+2517,M,low_risk,NA,no_risk,0,6m,,,0.251949706,0.748050294,0.817497434,0.182502566,non_asd,0
+2517,M,low_risk,NA,no_risk,0,3m,,,0.399150743,0.600849257,,,non_asd,0
+2517,M,low_risk,NA,no_risk,0,9m,,,0.510195389,0.489804611,0.192522267,0.807477733,non_asd,0
+2517,M,low_risk,NA,no_risk,0,12m,,,0.427066773,0.572933227,,,non_asd,0
+2518,F,low_risk,NA,no_risk,0,3m,,,0.060810811,0.939189189,,,,
+2518,F,low_risk,NA,no_risk,0,6m,,,0.198544011,0.525700419,0.774891775,0.225108225,,
+2518,F,low_risk,NA,no_risk,0,9m,,,,,,,,
+2518,F,low_risk,NA,no_risk,0,12m,,,,,,,,
+2519,F,low_risk,NA,no_risk,0,3m,,,,,,,,
+2519,F,low_risk,NA,no_risk,0,9m,,,,,,,,
+2519,F,low_risk,NA,no_risk,0,12m,,,,,,,,
+2519,F,low_risk,NA,no_risk,0,6m,,,,,,,,
+2520,M,low_risk,NA,no_risk,0,12m,,,,,0.491555956,0.508444044,autism,16
+2520,M,low_risk,NA,no_risk,0,9m,,,0.440892886,0.559107114,0.557939914,0.442060086,autism,16
+2520,M,low_risk,NA,no_risk,0,6m,,,0.496204373,0.503795627,0.84229249,0.158102767,autism,16
+2520,M,low_risk,NA,no_risk,0,3m,,,,,,,autism,16
+2521,M,low_risk,NA,no_risk,0,3m,,,0.42582897,0.57417103,,,,
+2521,M,low_risk,NA,no_risk,0,6m,,,,,,,,
+2521,M,low_risk,NA,no_risk,0,12m,,,,,,,,
+2521,M,low_risk,NA,no_risk,0,9m,,,,,,,,
+2522,M,low_risk,NA,no_risk,0,3m,,,0.541423571,0.458576429,,,,
+2522,M,low_risk,NA,no_risk,0,12m,,,,,,,,
+2522,M,low_risk,NA,no_risk,0,9m,,,,,,,,
+2522,M,low_risk,NA,no_risk,0,6m,,,0.468869565,0.531130435,0.712477064,0.287522936,,
+2523,M,low_risk,NA,no_risk,0,6m,,,0.561656166,0.438343834,0.857013983,0.142986017,non_asd,1
+2523,M,low_risk,NA,no_risk,0,12m,,,,,,,non_asd,1
+2523,M,low_risk,NA,no_risk,0,3m,,,0.570057582,0.429942418,,,non_asd,1
+2523,M,low_risk,NA,no_risk,0,9m,,,0.420635472,0.579364528,0.743058824,0.256941176,non_asd,1
+2524,F,low_risk,NA,no_risk,0,3m,,,0.722735675,0.277264325,0.666666667,0.333333333,non_asd,3
+2524,F,low_risk,NA,no_risk,0,12m,,,0.4125,0.5875,0,1,non_asd,3
+2524,F,low_risk,NA,no_risk,0,9m,,,0.529146426,0.465648855,0.92514108,0.07485892,non_asd,3
+2524,F,low_risk,NA,no_risk,0,6m,,,0.398207426,0.601792574,,,non_asd,3
+2525,F,low_risk,NA,no_risk,0,6m,,,0.563596491,0.436403509,,,non_asd,5
+2525,F,low_risk,NA,no_risk,0,3m,,,,,,,non_asd,5
+2525,F,low_risk,NA,no_risk,0,12m,,,0.472298777,0.527701223,0.247156488,0.752843512,non_asd,5
+2525,F,low_risk,NA,no_risk,0,9m,,,0.465462321,0.534537679,0.780206724,0.219793276,non_asd,5
+2526,M,low_risk,NA,no_risk,0,12m,,,0,1,,,,
+2526,M,low_risk,NA,no_risk,0,9m,,,0.546365915,0.453634085,,,,
+2526,M,low_risk,NA,no_risk,0,6m,,,0.350051561,0.407799756,0.688936954,0.311063046,,
+2526,M,low_risk,NA,no_risk,0,3m,,,,,,,,
+2527,F,low_risk,NA,no_risk,0,6m,,,0.607666854,0.392333146,1,0,non_asd,0
+2527,F,low_risk,NA,no_risk,0,9m,,,0.519607843,0.480392157,,,non_asd,0
+2527,F,low_risk,NA,no_risk,0,12m,,,0.423224683,0.576775317,0.897591623,0.102408377,non_asd,0
+2527,F,low_risk,NA,no_risk,0,3m,,,0.252252252,0.477477477,0.44295302,0.55704698,non_asd,0
+2528,F,low_risk,NA,no_risk,0,3m,,,0.971428571,0.028571429,,,,
+2528,F,low_risk,NA,no_risk,0,6m,,,,,,,,
+2528,F,low_risk,NA,no_risk,0,12m,,,,,,,,
+2528,F,low_risk,NA,no_risk,0,9m,,,,,,,,
+2529,M,high_risk,1st Cousin,second,0.125,3m,,,0.67001003,0.32998997,,,,
+2529,M,high_risk,1st Cousin,second,0.125,6m,,,,,,,,
+2529,M,high_risk,1st Cousin,second,0.125,12m,,,0.827586207,0.172413793,,,,
+2529,M,high_risk,1st Cousin,second,0.125,9m,,,,,,,,
+2530,M,low_risk,NA,no_risk,0,3m,,,0.427130045,0.572869955,,,,
+2530,M,low_risk,NA,no_risk,0,12m,,,,,,,,
+2530,M,low_risk,NA,no_risk,0,9m,,,,,,,,
+2530,M,low_risk,NA,no_risk,0,6m,,,,,,,,
+2531,M,low_risk,NA,no_risk,0,3m,,,,,0.731257209,0.268742791,non_asd,4
+2531,M,low_risk,NA,no_risk,0,9m,,,0.589004177,0.410995823,0.931740829,0.068259171,non_asd,4
+2531,M,low_risk,NA,no_risk,0,6m,,,,,0.931372549,0.068627451,non_asd,4
+2531,M,low_risk,NA,no_risk,0,12m,,,0.600352113,0.399647887,,,non_asd,4
+2532,F,low_risk,NA,no_risk,0,6m,,,0.502819549,0.497180451,1,0,non_asd,3
+2532,F,low_risk,NA,no_risk,0,9m,,,0.557926829,0.442073171,,,non_asd,3
+2532,F,low_risk,NA,no_risk,0,12m,,,0.328341014,0.671658986,,,non_asd,3
+2532,F,low_risk,NA,no_risk,0,3m,,,0.480490524,0.519509476,,,non_asd,3
+2533,F,low_risk,NA,no_risk,0,6m,,,0.33290778,0.66709222,0.968817734,0.031182266,,
+2533,F,low_risk,NA,no_risk,0,9m,,,0.553908356,0.446091644,,,,
+2533,F,low_risk,NA,no_risk,0,12m,,,,,,,,
+2533,F,low_risk,NA,no_risk,0,3m,,,0.612903226,0.387096774,,,,
+2534,M,low_risk,NA,no_risk,0,3m,,,0.584295612,0.415704388,,,non_asd,2
+2534,M,low_risk,NA,no_risk,0,6m,,,,,0.834656489,0.165343511,non_asd,2
+2534,M,low_risk,NA,no_risk,0,12m,0.542207117,0.457792883,0.679042553,0.320957447,0.968796036,0.031203964,non_asd,2
+2534,M,low_risk,NA,no_risk,0,9m,,,0.638554217,0.361445783,0.663784067,0.336215933,non_asd,2
+2535,M,low_risk,NA,no_risk,0,6m,,,0.530596053,0.469403947,0.333294798,0.666705202,non_asd,4
+2535,M,low_risk,NA,no_risk,0,9m,0.29175,0.70825,0.285714286,0.714285714,0.984375,0.015625,non_asd,4
+2535,M,low_risk,NA,no_risk,0,12m,,,,,0.338983051,0.661016949,non_asd,4
+2535,M,low_risk,NA,no_risk,0,3m,,,0,1,,,non_asd,4
+2536,M,low_risk,NA,no_risk,0,6m,,,0.6291841,0.3708159,,,,
+2536,M,low_risk,NA,no_risk,0,9m,0.851851852,0.148148148,1,0,,,,
+2536,M,low_risk,NA,no_risk,0,12m,,,,,,,,
+2536,M,low_risk,NA,no_risk,0,3m,,,0.436555891,0.563444109,,,,
+2537,M,low_risk,NA,no_risk,0,6m,,,0.395247356,0.604752644,0.987804878,0.012195122,non_asd,0
+2537,M,low_risk,NA,no_risk,0,12m,0.618072492,0.381927508,0.531992038,0.468007962,0.483648881,0.516351119,non_asd,0
+2537,M,low_risk,NA,no_risk,0,9m,0.599966199,0.400033801,0.535659871,0.464340129,0.717880474,0.282119526,non_asd,0
+2537,M,low_risk,NA,no_risk,0,3m,,,0.317228806,0.682771194,,,non_asd,0
+2538,F,low_risk,NA,no_risk,0,3m,,,0.36746988,0.63253012,,,non_asd,1
+2538,F,low_risk,NA,no_risk,0,12m,,,,,,,non_asd,1
+2538,F,low_risk,NA,no_risk,0,9m,0.602941176,0.397058824,0.478230221,0.521769779,0.22136782,0.77863218,non_asd,1
+2538,F,low_risk,NA,no_risk,0,6m,,,0.458511327,0.541488673,0.97207527,0.02792473,non_asd,1
+2539,F,low_risk,NA,no_risk,0,6m,,,0.566404442,0.433595558,0.783013622,0.216986378,non_asd,0
+2539,F,low_risk,NA,no_risk,0,9m,0.343213729,0.656786271,0.534775889,0.465224111,,,non_asd,0
+2539,F,low_risk,NA,no_risk,0,12m,,,,,,,non_asd,0
+2539,F,low_risk,NA,no_risk,0,3m,,,,,,,non_asd,0
+2540,F,low_risk,NA,no_risk,0,9m,0.530398084,0.469601916,0.494608733,0.505391267,0.657695032,0.342304968,non_asd,0
+2540,F,low_risk,NA,no_risk,0,3m,,,0.463203463,0.536796537,,,non_asd,0
+2540,F,low_risk,NA,no_risk,0,12m,0.401886792,0.598113208,0.545304778,0.454695222,,,non_asd,0
+2540,F,low_risk,NA,no_risk,0,6m,,,0.462287006,0.537712994,0.832724138,0.167275862,non_asd,0
+2541,F,low_risk,NA,no_risk,0,9m,0.497902451,0.502097549,0.430138704,0.569861296,0.971365195,0.028634805,non_asd,4
+2541,F,low_risk,NA,no_risk,0,3m,,,0.503960396,0.496039604,,,non_asd,4
+2541,F,low_risk,NA,no_risk,0,12m,0.467175573,0.532824427,0.567915691,0.432084309,,,non_asd,4
+2541,F,low_risk,NA,no_risk,0,6m,,,0.404815583,0.595184417,,,non_asd,4
+2542,M,low_risk,NA,no_risk,0,6m,,,0.403502649,0.596497351,,,non_asd,1
+2542,M,low_risk,NA,no_risk,0,12m,,,,,,,non_asd,1
+2542,M,low_risk,NA,no_risk,0,3m,,,0.770072164,0.229927836,0.91054418,0.08945582,non_asd,1
+2542,M,low_risk,NA,no_risk,0,9m,,,,,,,non_asd,1
+2543,M,low_risk,NA,no_risk,0,9m,,,,,,,non_asd,1
+2543,M,low_risk,NA,no_risk,0,3m,,,,,0.774443369,0.225556631,non_asd,1
+2543,M,low_risk,NA,no_risk,0,6m,,,,,,,non_asd,1
+2543,M,low_risk,NA,no_risk,0,12m,,,,,,,non_asd,1
+2544,M,low_risk,NA,no_risk,0,3m,,,,,0.763182823,0.236817177,non_asd,0
+2544,M,low_risk,NA,no_risk,0,9m,0.736,0.264,,,,,non_asd,0
+2544,M,low_risk,NA,no_risk,0,12m,0.499948278,0.500051722,0.580130804,0.419869196,0.932969714,0.067030286,non_asd,0
+2544,M,low_risk,NA,no_risk,0,6m,0.707290533,0.292709467,0.396413989,0.603586011,1,0,non_asd,0
+2545,M,low_risk,NA,no_risk,0,6m,0.580475461,0.419524539,0.530000879,0.469999121,0.831320608,0.168679392,non_asd,0
+2545,M,low_risk,NA,no_risk,0,3m,,,,,,,non_asd,0
+2545,M,low_risk,NA,no_risk,0,9m,,,,,,,non_asd,0
+2545,M,low_risk,NA,no_risk,0,12m,0.609535701,0.390464299,0.60774257,0.39225743,1,0,non_asd,0
+2546,F,low_risk,NA,no_risk,0,12m,0.665036675,0.334963325,0.375706215,0.624293785,,,non_asd,6
+2546,F,low_risk,NA,no_risk,0,6m,0.504390923,0.495609077,0.835654596,0.164345404,0.513157895,0.486842105,non_asd,6
+2546,F,low_risk,NA,no_risk,0,3m,,,0.731884058,0.268115942,,,non_asd,6
+2546,F,low_risk,NA,no_risk,0,9m,0.509364791,0.490635209,0.583539154,0.416460846,0.05757509,0.94242491,non_asd,6
+2547,M,low_risk,NA,no_risk,0,3m,,,,,,,non_asd,1
+2547,M,low_risk,NA,no_risk,0,6m,0.54050151,0.45949849,0.515277778,0.484722222,0.355697299,0.644302701,non_asd,1
+2547,M,low_risk,NA,no_risk,0,12m,0.567567568,0.432432432,0,1,,,non_asd,1
+2547,M,low_risk,NA,no_risk,0,9m,0.503030303,0.496969697,0.463054187,0.536945813,,,non_asd,1
+2548,F,low_risk,NA,no_risk,0,12m,0.5,0.5,0.495145631,0.504854369,,,non_asd,0
+2548,F,low_risk,NA,no_risk,0,3m,,,0.179775281,0.820224719,,,non_asd,0
+2548,F,low_risk,NA,no_risk,0,6m,0.277264325,0.722735675,0.404973357,0.595026643,,,non_asd,0
+2548,F,low_risk,NA,no_risk,0,9m,0.770700637,0.229299363,0.411580595,0.588419405,,,non_asd,0
+2549,F,low_risk,NA,no_risk,0,3m,,,0.496183206,0.503816794,,,non_asd,0
+2549,F,low_risk,NA,no_risk,0,6m,,,0.298701299,0.701298701,,,non_asd,0
+2549,F,low_risk,NA,no_risk,0,9m,0.590661831,0.409338169,0.666704871,0.333295129,,,non_asd,0
+2549,F,low_risk,NA,no_risk,0,12m,0.735966736,0.264033264,0.655502392,0.344497608,,,non_asd,0
+2550,F,low_risk,NA,no_risk,0,6m,0.375,0.625,0.244803695,0.755196305,,,non_asd,1
+2550,F,low_risk,NA,no_risk,0,3m,,,0.457463884,0.542536116,,,non_asd,1
+2550,F,low_risk,NA,no_risk,0,9m,0.663264254,0.336735746,0.476923077,0.523076923,0.873916036,0.126083964,non_asd,1
+2550,F,low_risk,NA,no_risk,0,12m,0.515077928,0.484922072,0.667201766,0.332798234,0.114601591,0.885398409,non_asd,1
+2551,F,low_risk,NA,no_risk,0,3m,,,,,,,non_asd,0
+2551,F,low_risk,NA,no_risk,0,12m,0.503222963,0.496777037,0.537634409,0.462365591,0.186476492,0.813523508,non_asd,0
+2551,F,low_risk,NA,no_risk,0,9m,0.258064516,0.741935484,0.474137931,0.525862069,,,non_asd,0
+2551,F,low_risk,NA,no_risk,0,6m,,,0.444181646,0.555818354,0.203549784,0.796450216,non_asd,0
+2552,M,low_risk,NA,no_risk,0,6m,0.5,0.5,6.786199499,3.214515552,,,non_asd,0
+2552,M,low_risk,NA,no_risk,0,12m,,,,,,,non_asd,0
+2552,M,low_risk,NA,no_risk,0,3m,,,0.79196321,0.20803679,0.133868809,0.866131191,non_asd,0
+2552,M,low_risk,NA,no_risk,0,9m,,,,,,,non_asd,0
+2553,F,low_risk,NA,no_risk,0,3m,,,0.428571429,0.571428571,,,non_asd,0
+2553,F,low_risk,NA,no_risk,0,12m,,,,,,,non_asd,0
+2553,F,low_risk,NA,no_risk,0,6m,0.410462633,0.589537367,0.223530251,0.776469749,0.991529013,0.008470987,non_asd,0
+2553,F,low_risk,NA,no_risk,0,9m,,,0.492813142,0.507186858,,,non_asd,0
+2554,M,high_risk,Grandmother,second,0.25,6m,0.788203753,0.211796247,0.508398095,0.491601905,0.870612971,0.129387029,non_asd,1
+2554,M,high_risk,Grandmother,second,0.25,12m,0.639178387,0.360821613,0.573785011,0.426214989,0.126865672,0.873134328,non_asd,1
+2554,M,high_risk,Grandmother,second,0.25,3m,0,0,,,0.806785271,0.799751758,non_asd,1
+2554,M,high_risk,Grandmother,second,0.25,9m,0.411684783,0.588315217,0.541666667,0.458333333,,,non_asd,1
+2555,F,low_risk,NA,no_risk,0,6m,,,,,,,non_asd,1
+2555,F,low_risk,NA,no_risk,0,9m,0.348968105,0.651031895,0.305927342,0.694072658,,,non_asd,1
+2555,F,low_risk,NA,no_risk,0,3m,,,0.684931507,0.315068493,,,non_asd,1
+2555,F,low_risk,NA,no_risk,0,12m,0.604754829,0.395245171,0.845758355,0.154241645,,,non_asd,1
+2556,F,low_risk,NA,no_risk,0,6m,0.483940538,0.516059462,0.389583464,0.610416536,0.647110719,0.352889281,non_asd,0
+2556,F,low_risk,NA,no_risk,0,9m,0.359365467,0.640634533,0.579150579,0.420849421,0.385137284,0.614862716,non_asd,0
+2556,F,low_risk,NA,no_risk,0,3m,,,0.444757308,0.555242692,0.55944286,0.44055714,non_asd,0
+2556,F,low_risk,NA,no_risk,0,12m,0.377751013,0.622248987,0.48759805,0.51240195,0.428223053,0.571776947,non_asd,0
+2557,M,low_risk,NA,no_risk,0,3m,,,0.289827255,0.710172745,,,non_asd,2
+2557,M,low_risk,NA,no_risk,0,6m,0.689795918,0.310204082,0.372093023,0.627906977,,,non_asd,2
+2557,M,low_risk,NA,no_risk,0,12m,0.224607762,0.775392238,0.369750553,0.630249447,0.666666667,0.333333333,non_asd,2
+2557,M,low_risk,NA,no_risk,0,9m,0.68972475,0.31027525,0.529687207,0.470312793,0.96918443,0.03081557,non_asd,2
+2558,M,low_risk,NA,no_risk,0,9m,0.552153475,0.447846525,0.445501945,0.554498055,0.719367089,0.280632911,non_asd,0
+2558,M,low_risk,NA,no_risk,0,3m,,,0.602362205,0.397637795,,,non_asd,0
+2558,M,low_risk,NA,no_risk,0,12m,,,,,,,non_asd,0
+2558,M,low_risk,NA,no_risk,0,6m,0.522904699,0.477095301,0.511624298,0.488375702,0.881413439,0.118586561,non_asd,0
+2559,M,low_risk,NA,no_risk,0,3m,,,0.60199005,0.39800995,0.754166667,0.245833333,non_asd,0
+2559,M,low_risk,NA,no_risk,0,9m,0.471368003,0.528631997,0.501708874,0.498291126,0.626360339,0.373639661,non_asd,0
+2559,M,low_risk,NA,no_risk,0,12m,0.438571429,0.561428571,0.48582996,0.51417004,,,non_asd,0
+2559,M,low_risk,NA,no_risk,0,6m,0.685226952,0.314773048,0.681311436,0.318688564,0.669115173,0.330884827,non_asd,0
+2560,F,low_risk,NA,no_risk,0,12m,,,,,,,non_asd,1
+2560,F,low_risk,NA,no_risk,0,6m,,,0.572548088,0.427451912,0.187481973,0.812518027,non_asd,1
+2560,F,low_risk,NA,no_risk,0,9m,0.30420712,0.69579288,0.637777055,0.36169822,,,non_asd,1
+2560,F,low_risk,NA,no_risk,0,3m,,,,,,,non_asd,1
+2561,F,low_risk,NA,no_risk,0,3m,,,,,,,non_asd,0
+2561,F,low_risk,NA,no_risk,0,9m,0.009966115,0.990033885,0.448902382,0.551097618,0.7409265,0.2590735,non_asd,0
+2561,F,low_risk,NA,no_risk,0,6m,0.547579299,0.452420701,0.399688958,0.600311042,,,non_asd,0
+2561,F,low_risk,NA,no_risk,0,12m,1,0.872860636,0.6,0.4,,,non_asd,0
+2562,M,low_risk,NA,no_risk,0,9m,0.591578947,0.408421053,0.582872928,0.417127072,,,non_asd,1
+2562,M,low_risk,NA,no_risk,0,6m,,,,,,,non_asd,1
+2562,M,low_risk,NA,no_risk,0,3m,,,0.466116888,0.533883112,0.558846095,0.441153905,non_asd,1
+2562,M,low_risk,NA,no_risk,0,12m,0.526305027,0.473694973,0.499770303,0.500229697,0.853448276,0.146551724,non_asd,1
+2563,F,low_risk,NA,no_risk,0,12m,0.623529412,0.376470588,0,1,,,non_asd,1
+2563,F,low_risk,NA,no_risk,0,6m,0.30733945,0.69266055,0.659574468,0.340425532,,,non_asd,1
+2563,F,low_risk,NA,no_risk,0,3m,,,,,,,non_asd,1
+2563,F,low_risk,NA,no_risk,0,9m,0.643712575,0.356287425,0.473417722,0.526582278,,,non_asd,1
+2564,M,low_risk,NA,no_risk,0,3m,,,,,,,non_asd,8
+2564,M,low_risk,NA,no_risk,0,12m,0.51875,0.48125,0.415542757,0.584457243,,,non_asd,8
+2564,M,low_risk,NA,no_risk,0,9m,0.546492659,0.453507341,0.506401138,0.493598862,,,non_asd,8
+2564,M,low_risk,NA,no_risk,0,6m,0.493023256,0.506976744,0.544871795,0.455128205,,,non_asd,8
+2565,F,low_risk,NA,no_risk,0,3m,,,,,,,non_asd,0
+2565,F,low_risk,NA,no_risk,0,6m,0.608068291,0.391931709,0.470340366,0.529659634,0.994917666,0.010622078,non_asd,0
+2565,F,low_risk,NA,no_risk,0,9m,0.55888651,0.44111349,0.512864494,0.487135506,0.796939891,0.203060109,non_asd,0
+2565,F,low_risk,NA,no_risk,0,12m,,,,,,,non_asd,0
+2566,F,low_risk,NA,no_risk,0,3m,0.767857143,0.232142857,0.535825545,0.464174455,,,non_asd,2
+2566,F,low_risk,NA,no_risk,0,9m,,,,,,,non_asd,2
+2566,F,low_risk,NA,no_risk,0,6m,0.608433735,0.391566265,0,1,,,non_asd,2
+2566,F,low_risk,NA,no_risk,0,12m,0.531531532,0.468468468,0.368200837,0.631799163,,,non_asd,2
+2567,F,low_risk,NA,no_risk,0,12m,0.564937184,0.435062816,0.354805645,0.645194355,0.701365818,0.298634182,non_asd,0
+2567,F,low_risk,NA,no_risk,0,3m,,,,,,,non_asd,0
+2567,F,low_risk,NA,no_risk,0,9m,0.646554641,0.353445359,0.525400391,0.474599609,1,0,non_asd,0
+2567,F,low_risk,NA,no_risk,0,6m,0.516304348,0.483695652,0.540861813,0.459138187,,,non_asd,0
+2568,M,low_risk,NA,no_risk,0,3m,,,,,,,non_asd,1
+2568,M,low_risk,NA,no_risk,0,6m,0.370087336,0.629912664,0.557124519,0.442875481,,,non_asd,1
+2568,M,low_risk,NA,no_risk,0,12m,0.589327887,0.410672113,0.483297702,0.516702298,0.021252628,0.978747372,non_asd,1
+2568,M,low_risk,NA,no_risk,0,9m,,,,,,,non_asd,1
+2569,F,low_risk,NA,no_risk,0,6m,,,,,,,non_asd,2
+2569,F,low_risk,NA,no_risk,0,12m,0.341383095,0.658616905,0.682681564,0.317318436,,,non_asd,2
+2569,F,low_risk,NA,no_risk,0,9m,0.502444988,0.497555012,0.292682927,0.707317073,,,non_asd,2
+2569,F,low_risk,NA,no_risk,0,3m,,,,,,,non_asd,2
+2570,M,low_risk,NA,no_risk,0,12m,0.462273814,0.537726186,0.588429879,0.411570121,0.693663292,0.306336708,non_asd,2
+2570,M,low_risk,NA,no_risk,0,6m,0.84106412,0.15893588,0.360151366,0.639848634,0.931332083,0.068667917,non_asd,2
+2570,M,low_risk,NA,no_risk,0,3m,0.40862423,0.59137577,0.797773655,0.202226345,,,non_asd,2
+2570,M,low_risk,NA,no_risk,0,9m,0.649186257,0.350813743,0.455252918,0.544747082,,,non_asd,2
+2571,F,low_risk,NA,no_risk,0,12m,0.324152542,0.675847458,0.595121951,0.404878049,,,non_asd,0
+2571,F,low_risk,NA,no_risk,0,9m,1,0,0.287719298,0.712280702,,,non_asd,0
+2571,F,low_risk,NA,no_risk,0,3m,0.424427481,0.575572519,0.878306878,0.121693122,,,non_asd,0
+2571,F,low_risk,NA,no_risk,0,6m,0.506666667,0.493333333,0.403587444,0.596412556,,,non_asd,0
+2572,M,low_risk,NA,no_risk,0,6m,0.401617251,0.598382749,0.692913386,0.307086614,,,non_asd,2
+2572,M,low_risk,NA,no_risk,0,12m,0.393939394,0.606060606,0.608695652,0.391304348,0.964494941,0.035505059,non_asd,2
+2572,M,low_risk,NA,no_risk,0,3m,,,,,,,non_asd,2
+2572,M,low_risk,NA,no_risk,0,9m,0.346472052,0.653527948,0.377394636,0.622605364,1,0,non_asd,2
+2573,M,low_risk,NA,no_risk,0,12m,0.725588235,0.274411765,0.670808113,0.329191887,0.313953488,0.686046512,autism_spectrum,14
+2573,M,low_risk,NA,no_risk,0,6m,,,,,,,autism_spectrum,14
+2573,M,low_risk,NA,no_risk,0,9m,,,,,,,autism_spectrum,14
+2573,M,low_risk,NA,no_risk,0,3m,0.257039822,0.742960178,0.677306131,0.322693869,0.938086304,0.061913696,autism_spectrum,14
+2574,F,low_risk,NA,no_risk,0,6m,0.492200684,0.507799316,0.422264134,0.577735866,0.458812734,0.541187266,non_asd,0
+2574,F,low_risk,NA,no_risk,0,3m,0.603080569,0.396919431,0.288532676,0.711467324,,,non_asd,0
+2574,F,low_risk,NA,no_risk,0,9m,,,,,,,non_asd,0
+2574,F,low_risk,NA,no_risk,0,12m,,,,,,,non_asd,0
+2575,F,low_risk,NA,no_risk,0,9m,,,,,,,non_asd,6
+2575,F,low_risk,NA,no_risk,0,6m,0.468864469,0.531135531,0.472131148,0.527868852,,,non_asd,6
+2575,F,low_risk,NA,no_risk,0,12m,,,,,,,non_asd,6
+2575,F,low_risk,NA,no_risk,0,3m,,,,,,,non_asd,6
+2576,M,low_risk,NA,no_risk,0,3m,0.616585366,0.916097561,0.473520249,0.526479751,,,,
+2576,M,low_risk,NA,no_risk,0,6m,0.571847507,0.428152493,0.495652174,0.504347826,,,,
+2576,M,low_risk,NA,no_risk,0,12m,,,,,,,,
+2576,M,low_risk,NA,no_risk,0,9m,,,,,,,,
+2577,M,low_risk,NA,no_risk,0,6m,0.749619959,0.250380041,0.559650053,0.440349947,0.284734134,0.715265866,non_asd,8
+2577,M,low_risk,NA,no_risk,0,3m,0.396770473,0.603229527,0.395218003,0.604781997,,,non_asd,8
+2577,M,low_risk,NA,no_risk,0,9m,0.547344896,0.452655104,0.603772242,0.396227758,0.424924925,0.575075075,non_asd,8
+2577,M,low_risk,NA,no_risk,0,12m,0.5,0.5,,,,,non_asd,8
+2578,M,low_risk,NA,no_risk,0,12m,0.683018868,0.316981132,0.874538745,0.125461255,,,non_asd,4
+2578,M,low_risk,NA,no_risk,0,9m,0.578505747,0.421494253,0.551888889,0.448111111,0.912646675,0.087353325,non_asd,4
+2578,M,low_risk,NA,no_risk,0,6m,0.526930726,0.473069274,0.496090231,0.503909769,0.854908775,0.145091225,non_asd,4
+2578,M,low_risk,NA,no_risk,0,3m,,,,,,,non_asd,4
+2579,M,low_risk,NA,no_risk,0,6m,,,,,,,non_asd,2
+2579,M,low_risk,NA,no_risk,0,12m,0,1,0.211267606,0.788732394,,,non_asd,2
+2579,M,low_risk,NA,no_risk,0,9m,0.423076923,0.576923077,1,0,,,non_asd,2
+2579,M,low_risk,NA,no_risk,0,3m,,,,,,,non_asd,2
+2580,M,low_risk,NA,no_risk,0,3m,0.436090226,0.563909774,0.511864407,0.488135593,,,non_asd,2
+2580,M,low_risk,NA,no_risk,0,6m,0.6484375,0.3515625,0.479865772,0.520134228,,,non_asd,2
+2580,M,low_risk,NA,no_risk,0,12m,0.502711497,0.497288503,0.565057283,0.434942717,0.156862745,0.843137255,non_asd,2
+2580,M,low_risk,NA,no_risk,0,9m,,,,,,,non_asd,2
+2581,M,low_risk,NA,no_risk,0,3m,,,0.595121951,0.404878049,,,,
+2581,M,low_risk,NA,no_risk,0,9m,0,1,0.463414634,0.536585366,,,,
+2581,M,low_risk,NA,no_risk,0,6m,0.537091988,0.462908012,0.421182266,0.578817734,,,,
+2581,M,low_risk,NA,no_risk,0,12m,,,,,,,,
+2582,F,low_risk,NA,no_risk,0,3m,,,,,,,,
+2582,F,low_risk,NA,no_risk,0,9m,,,,,,,,
+2582,F,low_risk,NA,no_risk,0,6m,0.67357513,0.32642487,0.650130548,0.349869452,,,,
+2582,F,low_risk,NA,no_risk,0,12m,,,,,,,,
+2583,F,low_risk,NA,no_risk,0,12m,0.540720349,0.459279651,0.433763497,0.566236503,0.007444169,0.992555831,non_asd,0
+2583,F,low_risk,NA,no_risk,0,9m,,,,,,,non_asd,0
+2583,F,low_risk,NA,no_risk,0,3m,,,,,,,non_asd,0
+2583,F,low_risk,NA,no_risk,0,6m,,,,,,,non_asd,0
+2584,F,low_risk,NA,no_risk,0,9m,0.600095785,0.399904215,0.532428995,0.467571005,1.440944882,8.062992126,non_asd,9
+2584,F,low_risk,NA,no_risk,0,3m,0,1,0.276086957,0.723913043,,,non_asd,9
+2584,F,low_risk,NA,no_risk,0,6m,,,,,,,non_asd,9
+2584,F,low_risk,NA,no_risk,0,12m,0.534465021,0.465534979,0.59432475,0.40567525,0.528194147,0.471805853,non_asd,9
+2585,F,high_risk,2nd Cousin,second,0.0625,6m,0.5625,0.4375,0.31441048,0.68558952,,,non_asd,8
+2585,F,high_risk,2nd Cousin,second,0.0625,12m,0.439517865,0.560482135,0.431914894,0.568085106,0.261865794,0.738134206,non_asd,8
+2585,F,high_risk,2nd Cousin,second,0.0625,9m,0.412288136,0.587711864,0.355400697,0.644599303,0.69982548,0.30017452,non_asd,8
+2585,F,high_risk,2nd Cousin,second,0.0625,3m,,,,,,,non_asd,8
+2586,M,low_risk,NA,no_risk,0,6m,0.849944009,0.150055991,0.339238264,0.660761736,1,0,non_asd,8
+2586,M,low_risk,NA,no_risk,0,9m,0.635145784,0.364854216,0.45497076,0.54502924,0.063291139,0.936708861,non_asd,8
+2586,M,low_risk,NA,no_risk,0,12m,0.54592721,0.56961294,0.457886677,0.542113323,0.781350482,0.218649518,non_asd,8
+2586,M,low_risk,NA,no_risk,0,3m,,,,,,,non_asd,8
+2587,M,low_risk,NA,no_risk,0,3m,,,,,,,,
+2587,M,low_risk,NA,no_risk,0,9m,,,,,,,,
+2587,M,low_risk,NA,no_risk,0,12m,,,,,,,,
+2587,M,low_risk,NA,no_risk,0,6m,,,,,,,,
+2588,M,low_risk,NA,no_risk,0,3m,0.600515464,0.399484536,0.366515837,0.633484163,,,,
+2588,M,low_risk,NA,no_risk,0,6m,0.460020768,0.539979232,0.599715775,0.400284225,0.144522145,0.855477855,,
+2588,M,low_risk,NA,no_risk,0,12m,,,,,,,,
+2588,M,low_risk,NA,no_risk,0,9m,0.516096579,0.483903421,0.520923521,0.479076479,0.514996809,0.485003191,,
+2589,F,low_risk,NA,no_risk,0,3m,,,,,,,,
+2589,F,low_risk,NA,no_risk,0,6m,,,,,,,,
+2589,F,low_risk,NA,no_risk,0,12m,,,,,,,,
+2589,F,low_risk,NA,no_risk,0,9m,,,,,,,,
+2590,M,low_risk,NA,no_risk,0,12m,0.792014856,0.207985144,0.542168675,0.457831325,1,0,autism,13
+2590,M,low_risk,NA,no_risk,0,6m,0.787421384,0.212578616,0.37593985,0.62406015,0.124675325,0.875324675,autism,13
+2590,M,low_risk,NA,no_risk,0,9m,0.756906077,0.243093923,0.23828125,0.76171875,0.461538462,0.538461538,autism,13
+2590,M,low_risk,NA,no_risk,0,3m,0.361111111,0.638888889,0.42568371,0.57431629,0.768500949,0.231499051,autism,13
+2591,M,low_risk,NA,no_risk,0,6m,,,,,,,non_asd,1
+2591,M,low_risk,NA,no_risk,0,12m,0.545881349,0.454118651,0.514372822,0.485627178,0.87206823,0.12793177,non_asd,1
+2591,M,low_risk,NA,no_risk,0,9m,5.726812282,0.401392846,0.552586207,0.447413793,0.375,0.625,non_asd,1
+2591,M,low_risk,NA,no_risk,0,3m,0.574498567,0.425501433,0.748717949,0.251282051,0.517412935,0.482587065,non_asd,1
+2592,F,low_risk,NA,no_risk,0,6m,0.798307064,0.201692936,0.34612069,0.65387931,0.034545455,0.965454545,,
+2592,F,low_risk,NA,no_risk,0,3m,0.414983474,0.585016526,0.608029583,0.391970417,0.224315068,0.775684932,,
+2592,F,low_risk,NA,no_risk,0,9m,0.697657658,0.302342342,0.541595925,0.458404075,0.509749304,0.490250696,,
+2592,F,low_risk,NA,no_risk,0,12m,0.501182654,0.498817346,4.657563025,3.905462185,0.949556919,0.050443081,,
+2593,F,low_risk,NA,no_risk,0,3m,0.581841432,0.418158568,0.39809096,0.602414374,0.506756757,0.493243243,non_asd,1
+2593,F,low_risk,NA,no_risk,0,9m,0.54886856,0.45113144,0.362285183,6.071992569,0.325259516,0.674740484,non_asd,1
+2593,F,low_risk,NA,no_risk,0,6m,,,,,,,non_asd,1
+2593,F,low_risk,NA,no_risk,0,12m,4.854545455,5.145454545,0.536334056,0.463665944,0.109090909,0.890909091,non_asd,1
+2594,M,low_risk,NA,no_risk,0,6m,0.636803874,0.363196126,0.438877756,0.561122244,1,0,,
+2594,M,low_risk,NA,no_risk,0,3m,,,,,,,,
+2594,M,low_risk,NA,no_risk,0,9m,,,,,,,,
+2594,M,low_risk,NA,no_risk,0,12m,,,,,,,,
+2595,F,low_risk,NA,no_risk,0,9m,0.584759358,0.415240642,0.482661907,0.517338093,0.995977474,0.004022526,non_asd,3
+2595,F,low_risk,NA,no_risk,0,3m,0.674796748,0.325203252,0.806031273,0.193968727,0.562620424,0.437379576,non_asd,3
+2595,F,low_risk,NA,no_risk,0,12m,0.579047619,0.420952381,0.397087379,0.602912621,0.9751693,0.0248307,non_asd,3
+2595,F,low_risk,NA,no_risk,0,6m,0.583492063,0.416507937,0.521282633,0.478717367,0.472644377,0.527355623,non_asd,3
+2596,M,low_risk,NA,no_risk,0,6m,,,,,,,non_asd,3
+2596,M,low_risk,NA,no_risk,0,3m,,,,,,,non_asd,3
+2596,M,low_risk,NA,no_risk,0,9m,0.631860776,0.368139224,0.41692988,0.58307012,0.159322034,0.840677966,non_asd,3
+2596,M,low_risk,NA,no_risk,0,12m,3.581481481,4.085185185,0.57406015,0.42593985,0.505102041,0.409863946,non_asd,3
+2597,M,low_risk,NA,no_risk,0,3m,,,,,,,autism_spectrum,7
+2597,M,low_risk,NA,no_risk,0,6m,0.584404456,0.415595544,0.499215071,0.500784929,0.88747646,0.11252354,autism_spectrum,7
+2597,M,low_risk,NA,no_risk,0,12m,,,,,,,autism_spectrum,7
+2597,M,low_risk,NA,no_risk,0,9m,0.673869007,0.326130993,0.553398058,0.446601942,1,0,autism_spectrum,7
+2598,M,low_risk,NA,no_risk,0,6m,,,,,,,,
+2598,M,low_risk,NA,no_risk,0,3m,0.924037461,0.075962539,0.358655044,0.641344956,0.289473684,0.710526316,,
+2598,M,low_risk,NA,no_risk,0,12m,,,,,,,,
+2598,M,low_risk,NA,no_risk,0,9m,,,,,,,,
+2599,M,low_risk,NA,no_risk,0,12m,0.746575342,0.253424658,0.472312704,0.527687296,1,0,non_asd,1
+2599,M,low_risk,NA,no_risk,0,9m,0.732716385,0.267283615,0.526017029,0.473982971,0.8375,0.1625,non_asd,1
+2599,M,low_risk,NA,no_risk,0,6m,0.749471459,0.250528541,0.599339571,0.400660429,0.566003617,0.433996383,non_asd,1
+2599,M,low_risk,NA,no_risk,0,3m,,,,,,,non_asd,1
+2600,M,low_risk,NA,no_risk,0,6m,,,0.470899471,0.529100529,,,,
+2600,M,low_risk,NA,no_risk,0,3m,,,0.264705882,0.735294118,1,0,,
+2600,M,low_risk,NA,no_risk,0,9m,,,,,,,,
+2600,M,low_risk,NA,no_risk,0,12m,,,,,,,,
+2601,F,low_risk,NA,no_risk,0,3m,,,,,,,non_asd,8
+2601,F,low_risk,NA,no_risk,0,12m,0.621418506,0.378581494,0.548633441,0.451366559,0.994822485,0.005177515,non_asd,8
+2601,F,low_risk,NA,no_risk,0,6m,0.610133104,0.389866896,0.41426025,0.58573975,1,0,non_asd,8
+2601,F,low_risk,NA,no_risk,0,9m,0.537897311,0.462102689,0.493174061,0.506825939,0.705128205,0.294871795,non_asd,8
+2602,F,low_risk,NA,no_risk,0,3m,,,,,,,non_asd,0
+2602,F,low_risk,NA,no_risk,0,6m,0.841269841,0.158730159,0.420289855,0.579710145,1,0,non_asd,0
+2602,F,low_risk,NA,no_risk,0,9m,0.49070632,0.50929368,0.429308566,0.570691434,0.40969163,0.59030837,non_asd,0
+2602,F,low_risk,NA,no_risk,0,12m,0.684587814,0.315412186,0.180952381,0.819047619,0,1,non_asd,0
+2603,M,low_risk,NA,no_risk,0,3m,,,,,,,non_asd,5
+2603,M,low_risk,NA,no_risk,0,6m,0.59830584,0.40169416,0.525931337,0.474068663,0.030689056,0.969310944,non_asd,5
+2603,M,low_risk,NA,no_risk,0,9m,0.665535628,0.334464372,0.486827033,0.513172967,0.724770642,0.275229358,non_asd,5
+2603,M,low_risk,NA,no_risk,0,12m,0.419871795,0.580128205,0,0.976744186,0.463917526,0.536082474,non_asd,5
+2604,F,high_risk,2nd Cousin,second,0.0625,6m,0.5925,0.4075,1,0,,,non_asd,0
+2604,F,high_risk,2nd Cousin,second,0.0625,12m,0.609279609,0.390720391,0.414833438,0.585166562,0.102639296,0.897360704,non_asd,0
+2604,F,high_risk,2nd Cousin,second,0.0625,9m,0.5925,0.4075,1,0,,,non_asd,0
+2604,F,high_risk,2nd Cousin,second,0.0625,3m,0.870052278,0.129947722,0.625407166,0.374592834,1,0,non_asd,0
+2605,F,low_risk,NA,no_risk,0,6m,,,,,,,non_asd,0
+2605,F,low_risk,NA,no_risk,0,12m,,,,,,,non_asd,0
+2605,F,low_risk,NA,no_risk,0,9m,0.596237337,0.403762663,1,0,0.285714286,0.714285714,non_asd,0
+2605,F,low_risk,NA,no_risk,0,3m,,,,,,,non_asd,0
+2606,M,low_risk,NA,no_risk,0,3m,,,,,,,non_asd,0
+2606,M,low_risk,NA,no_risk,0,9m,0.390986602,0.609013398,0.426395939,0.573604061,0.940226171,0.059773829,non_asd,0
+2606,M,low_risk,NA,no_risk,0,12m,,,,,,,non_asd,0
+2606,M,low_risk,NA,no_risk,0,6m,0.741656366,0.258343634,0.50170068,0.49829932,0.150649351,0.849350649,non_asd,0
+2607,M,low_risk,NA,no_risk,0,3m,,,0.576,0.424,0,1,,
+2607,M,low_risk,NA,no_risk,0,9m,0.536490251,0.463509749,0.931846344,0.068153656,1,0,,
+2607,M,low_risk,NA,no_risk,0,12m,,,0,1,,,,
+2607,M,low_risk,NA,no_risk,0,6m,0.730743013,0.269256987,0.477112676,0.522887324,0.904040404,0.095959596,,
+2608,F,low_risk,NA,no_risk,0,12m,0.725103734,0.274896266,0.5,0.5,1,0,non_asd,0
+2608,F,low_risk,NA,no_risk,0,3m,0.597281831,0.402718169,0.488505747,0.511494253,1,0,non_asd,0
+2608,F,low_risk,NA,no_risk,0,9m,,,0.41221374,0.58778626,0.929347826,0.070652174,non_asd,0
+2608,F,low_risk,NA,no_risk,0,6m,0.347297297,0.652702703,0.37606032,0.62393968,0.923076923,0.076923077,non_asd,0
+2609,M,low_risk,NA,no_risk,0,12m,0.491803279,0.508196721,0.76460177,0.23539823,0.211009174,0.788990826,non_asd,3
+2609,M,low_risk,NA,no_risk,0,3m,0.391318865,0.608681135,0.441496164,0.558503836,1,0,non_asd,3
+2609,M,low_risk,NA,no_risk,0,9m,0.649366325,0.350633675,0.420283627,0.579716373,0.366442953,0.633557047,non_asd,3
+2609,M,low_risk,NA,no_risk,0,6m,0.72731503,0.27268497,0.432121662,0.567878338,0.727835052,0.272164948,non_asd,3
+2610,M,low_risk,NA,no_risk,0,6m,0.661552766,0.333798233,0.518647008,0.481352992,0.909090909,0.090909091,,
+2610,M,low_risk,NA,no_risk,0,3m,0.333738602,0.666261398,0.661904762,0.338095238,0.062745098,0.937254902,,
+2610,M,low_risk,NA,no_risk,0,12m,,,,,,,,
+2610,M,low_risk,NA,no_risk,0,9m,0.589104607,0.410895393,0.450118765,0.549881235,0.746282528,0.253717472,,
+2611,F,low_risk,NA,no_risk,0,9m,0.548069644,0.451930356,0.540240518,0.459759482,0.265346535,0.734653465,non_asd,6
+2611,F,low_risk,NA,no_risk,0,6m,0.556808326,0.443191674,0.43752779,0.56247221,0,1,non_asd,6
+2611,F,low_risk,NA,no_risk,0,3m,,,,,,,non_asd,6
+2611,F,low_risk,NA,no_risk,0,12m,0.615384615,0.384615385,0.567382813,0.432617188,0.985915493,0.014084507,non_asd,6
+2612,F,low_risk,NA,no_risk,0,9m,,,,,1,1,non_asd,1
+2612,F,low_risk,NA,no_risk,0,3m,0.457435897,0.542564103,0.334651508,0.665348492,0.919565217,0.080434783,non_asd,1
+2612,F,low_risk,NA,no_risk,0,12m,0.899422918,0.100577082,0.393300918,0.606699082,0.981651376,0.018348624,non_asd,1
+2612,F,low_risk,NA,no_risk,0,6m,0.686246418,0.313753582,0.738396624,0.261603376,0.758278146,0.241721854,non_asd,1
+2613,F,low_risk,NA,no_risk,0,6m,0.578152753,0.421847247,0.363246028,0.636753972,0.845205479,0.154794521,non_asd,3
+2613,F,low_risk,NA,no_risk,0,12m,,,,,,,non_asd,3
+2613,F,low_risk,NA,no_risk,0,9m,0.567404427,0.432595573,0.576996198,0.423003802,0.879893829,0.120106171,non_asd,3
+2613,F,low_risk,NA,no_risk,0,3m,0.328638498,0.671361502,0.459042985,0.540957015,0.336336336,0.663663664,non_asd,3
+2614,M,low_risk,NA,no_risk,0,6m,,,,,,,non_asd,3
+2614,M,low_risk,NA,no_risk,0,3m,,,,,1,0,non_asd,3
+2614,M,low_risk,NA,no_risk,0,9m,0.562376238,0.437623762,0.536531365,0.463468635,0.938092861,0.061907139,non_asd,3
+2614,M,low_risk,NA,no_risk,0,12m,,,,,,,non_asd,3
+2615,F,low_risk,NA,no_risk,0,3m,,,,,,,,
+2615,F,low_risk,NA,no_risk,0,9m,,,,,0.959,0.041,,
+2615,F,low_risk,NA,no_risk,0,12m,,,,,,,,
+2615,F,low_risk,NA,no_risk,0,6m,,,,,,,,
+2616,M,low_risk,NA,no_risk,0,3m,,,,,1,0,non_asd,0
+2616,M,low_risk,NA,no_risk,0,12m,0.548096192,0.451903808,0.496200608,0.503799392,0.601129944,0.398870056,non_asd,0
+2616,M,low_risk,NA,no_risk,0,6m,0.619831547,0.380168453,0.670838972,0.329161028,1,0,non_asd,0
+2616,M,low_risk,NA,no_risk,0,9m,0.539202201,0.460797799,0.487421384,0.512578616,0.615789474,0.384210526,non_asd,0
+2617,F,low_risk,NA,no_risk,0,3m,,,,,1,0,,
+2617,F,low_risk,NA,no_risk,0,12m,0.608832808,0.391167192,,,,,,
+2617,F,low_risk,NA,no_risk,0,9m,0.507592191,0.492407809,0.402108434,0.597891566,0.972477064,0.027522936,,
+2617,F,low_risk,NA,no_risk,0,6m,0.471910112,0.528089888,0.669613774,0.330386226,0.971962617,0.028037383,,
+2618,M,low_risk,NA,no_risk,0,6m,,,,,,,,
+2618,M,low_risk,NA,no_risk,0,3m,,,,,,,,
+2618,M,low_risk,NA,no_risk,0,9m,0.52653486,0.47346514,0.546146953,0.453853047,0.378091873,0.621908127,,
+2618,M,low_risk,NA,no_risk,0,12m,,,,,,,,
+2619,M,low_risk,NA,no_risk,0,6m,0.637937978,0.362062022,0.551860891,0.448139109,0.957923008,0.042076992,non_asd,5
+2619,M,low_risk,NA,no_risk,0,3m,0.866743917,0.133256083,1,0,1,0,non_asd,5
+2619,M,low_risk,NA,no_risk,0,9m,0.642124052,0.357875948,0.445336008,0.554663992,1,0,non_asd,5
+2619,M,low_risk,NA,no_risk,0,12m,0.632728772,0.367271228,0.447291362,0.552708638,1,0,non_asd,5
+2620,F,low_risk,NA,no_risk,0,12m,,,,,,,,
+2620,F,low_risk,NA,no_risk,0,9m,,,,,,,,
+2620,F,low_risk,NA,no_risk,0,3m,0.356633381,0.643366619,0.66464891,0.33535109,0.778210117,0.221789883,,
+2620,F,low_risk,NA,no_risk,0,6m,0.380331754,0.619668246,0.410760034,0.589239966,0.8698941,0.1301059,,
+2621,F,low_risk,NA,no_risk,0,12m,,,,,,,,
+2621,F,low_risk,NA,no_risk,0,9m,,,,,,,,
+2621,F,low_risk,NA,no_risk,0,6m,0.466030989,0.533969011,0.392229417,0.607770583,1,0,,
+2621,F,low_risk,NA,no_risk,0,3m,,,,,1,0,,
+2622,F,low_risk,NA,no_risk,0,12m,0.505815781,0.494184219,0.518139842,0.481860158,0.19047619,0.80952381,,
+2622,F,low_risk,NA,no_risk,0,9m,0.632364493,0.367635507,0.519949066,0.480050934,0.862490451,0.12987013,,
+2622,F,low_risk,NA,no_risk,0,6m,0.527603075,0.472396925,0.462692163,0.537307837,1,0,,
+2622,F,low_risk,NA,no_risk,0,3m,0.783536585,0.216463415,0.365163572,0.634836428,1,0,,
+2623,M,low_risk,NA,no_risk,0,6m,0.625116279,0.374883721,0.470933073,0.529066927,0.86440678,0.13559322,,
+2623,M,low_risk,NA,no_risk,0,9m,0.554847841,0.445152159,0.394854586,0.605145414,,,,
+2623,M,low_risk,NA,no_risk,0,3m,0.711573237,0.288426763,0.374666667,0.625333333,0,1,,
+2623,M,low_risk,NA,no_risk,0,12m,0.547983871,0.04516129,0.490870359,0.509129641,0.834821429,0.165178571,,
+2624,F,low_risk,NA,no_risk,0,12m,,,,,,,,
+2624,F,low_risk,NA,no_risk,0,3m,,,,,,,,
+2624,F,low_risk,NA,no_risk,0,9m,,,,,,,,
+2624,F,low_risk,NA,no_risk,0,6m,,,,,,,,
+2625,M,low_risk,NA,no_risk,0,6m,,,,,,,,
+2625,M,low_risk,NA,no_risk,0,3m,,,,,,,,
+2625,M,low_risk,NA,no_risk,0,12m,,,,,,,,
+2625,M,low_risk,NA,no_risk,0,9m,,,,,,,,
+2626,NA,low_risk,NA,no_risk,0,6m,,,,,,,,
+2626,NA,low_risk,NA,no_risk,0,3m,,,,,,,,
+2626,NA,low_risk,NA,no_risk,0,12m,,,,,,,,
+2626,NA,low_risk,NA,no_risk,0,9m,,,,,,,,
+NA,NA,NA,NA,NA,NA,6m,0.605222257,0.394777743,,,1,0,,
