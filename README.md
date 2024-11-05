@@ -6,8 +6,8 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of inspiration is to provide a tool to easily normalize the
-data
+The goal of inspiration package is to provide a tool to easily normalize
+the data to work with infant eye tracker data
 
 ## Installation
 
