@@ -19,27 +19,9 @@ str(data)
 
 
 # Data Dictionary
-```{r}
-library(datadictionary)
-create_dictionary(data,  id_var = "ID")
-var_labels <- c(ID = "Participant ID",  
-                Gender = "Gender information",
-                aut_relation = "It indicates the risk status based on familial history for autism; high or low risk.",
-                aut_family = "The participant's relationship to the family member diagnosed with autism.",
-                aut_degree = "Relatedness to autism in degree",
-                aut_degree_cont = "Relatedness to autism in degree as continuous variable",
-                Age = "Participant's tested age group",
-                open_percent = "Percentage of looking towards open eyes",
-                close_percent = "Percentage of looking towards closed eyes",
-                averted_percent = "Percentage of looking towards averted gaze",
-                directed_percent = "Percentage of looking towards directed gaze",
-                eyes_percent = "Percentage of looking towards eyes over mouth",
-                mouth_percent = "Percentage of looking towards mouth over eyes",
-                Classification = "Autism classification based on ADOS scores",
-                ADOS_Score = "ADOS scores")
 
-create_dictionary(data,  id_var = "ID", var_labels = var_labels)
-```
+The data dictionary is already in the documentation.
+
 # Save to the data folder
 ```{r}
 usethis::use_data(data, overwrite = T)
